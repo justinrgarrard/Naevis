@@ -8,16 +8,17 @@ nav_order: 1
 
 # Cleric
 
-Clerics are initiates into one of Naevis' many mystery cults. As part of their induction, they undergo a ritual that kindles a font of magic within their bodies. 
+Clerics, sometime also called **cultivators**, are initiates into one of the many sects scattered across Naevis.
 
-##### Mystery Cults
-> Religion in Naevis is organized across countless organizations, each with their own particular beliefs and rituals. While some venerate deities, many are non-theistic, focusing instead on a school of philosophy or way of life.
+##### Qi
+> Most clerics draw their power from [Lifeforce](../../../data/archetypes/cleric_life), alternatively known as qi or divine grace.  Their magic comes from an internal flow of energy and grows stronger with regular meditation. [Talismans](../../../data/items/holy_symbol) can be used to aid in the expression of that energy.
 
-##### Divine Magic
-> Navean clerics wield their power by intuition rather than careful study. The energy that fuels their spells comes from within and grows steadily stronger as they advance in skill. Their spellcasting tools are [talismans](../../../data/items/holy_symbol).
+##### Sects
+> Spirituality and religion in Naevis is organized across countless institutions, each with their own particular beliefs and rituals. These institutions are collectively referred to as sects.  
+<!-- > As the name suggests, cults guard their knowledge jealously, only offering guidance to full-fledged initiates who are themselves sworn to secrecy. This stance often puts them at odds with [Wizards](wizard) whose avarice for knowledge is well-known. -->
 
-##### Life Energy
-> Most clerics are tied to the [Life Domain](../../../data/archetypes/cleric_life), describing their power as qi, aura, or divine grace. However, more [exotic domains](../../more/archetypes/index#setting-archetypes) exist on the fringes of society.
+##### Sacred Languages
+> The secret texts of a sect are written in an [Exotic Language](../../adventuring/mechanics/languages#words-of-power) to keep them safe from prying eyes. These languages hold their own power, and are intimately tied to a sect's origins.
 
 ---
 

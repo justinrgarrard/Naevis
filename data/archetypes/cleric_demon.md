@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Demon Worshipper
+title: Demon
 parent: Archetypes
 grand_parent: More
 nav_exclude: true
 ---
 
-# Cleric: Demon Worshipper
+# Cleric: Demonic Cult
 
-_If a ghost is left uncleansed for years it will gradually fester into a demon, gaining flesh and terrible power. Exceptional demons may gather mortal servants around them, bestowing power upon favored minions through sinister rites._
+_Fell warriors whose qi is like a hungry flame. Demonic cults practice heretical arts, feeding their magic with the lifeforce of others. They are not tolerated in civilized lands, but can be found in the outskirts and criminal underworlds of most cities._
 
 
 #### Demon Domain Spells
@@ -21,31 +21,28 @@ _If a ghost is left uncleansed for years it will gradually fester into a demon, 
 | 7th          |  Dimension Door, Wall of Fire |
 | 9th          |      Flame Strike, Raise Dead |
 
-#### Knight of Hell
 
-At 1st level, you gain proficiency with martial weapons and learn the *Fire bolt* cantrip. You also learn the [Abyssal](../../docs/adventuring/mechanics/languages#abyssal) language.
+#### Bonus Proficiencies
+When you choose this domain at 1st level, you gain proficiency in deception and learn the [Fire bolt](../srd_spells/fire_bolt) cantrip. Your proficiency bonus when using deception is doubled.
+
 
 #### Reap
-
 Beginning at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Wisdom modifier + your cleric level (minimum of 1).
 
 
 #### Channel Divinity: Condemn
-
 Starting at 2nd level, you can use your Channel Divinity as a reaction when you are damaged by a creature within 60 feet. The creature takes 1d10 fire damage for each level of your proficiency bonus.
 
 
-#### Channel Divinity: Lesser Wall of Flame
+#### Channel Divinity: Consume
+Beginning at 6th level, you can use your Channel Divinity with an action to consume the life energy of another creature.
 
-Beginning at 6th level, you can use your Channel Divinity to create a small wall of flame.
-
-As an action, you present your holy symbol, and the wall forms within five feet of you. It can be up to 10 feet wide, 5 feet high, and one foot thick. Any creature standing in the wall when it forms or attempting to move through the wall after it forms takes 1d8 fire damage per level of proficiency bonus you have. The wall exists for one minute before fading to non-magical embers.
+When you do so, make a melee spell attack. The creature takes 3d6 necrotic damage or half that amount if the attack fails. You regain hit points equal to the damage dealt.
 
 
-#### Divine Strike
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 fire damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+#### Potent Spellcasting
+Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 
 #### Inner Strength
-
 At 17th level, you gain an additional use of _Channel Divinity_.

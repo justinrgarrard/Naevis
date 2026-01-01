@@ -8,28 +8,33 @@ nav_exclude: true
 
 # Rogue: Trailblazer
 
-_While most adventurers are survivalists, few invest the effort to become genuinely adept at navigating hostile climes. Trailblazers make for exceptional guides and can be found in the ranks of elite scouts and bounty hunters._
+_Survivalists that stand a cut above the common scout. While all adventurers are necessarily familiar with fieldcraft, Trailblazers move beyond the basics to true mastery._
+
 
 #### Practiced Hands
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to take the **Use an Object** action or make a ranged attack with an improvised throwing weapon. Additionally, you count as proficient when making attacks with improvised weapons.
+Starting at 3rd level, you can use the bonus action granted by your Cunning Action to take the **Use an Object** action, or to draw and throw a weapon with the _Thrown_ property. 
 
 
-#### Experienced
-At 3rd level, your prowess in exploring unfamiliar lands manifests in a number of ways.
+#### Trade Secrets: Fieldcraft
+At 3rd level, you gain one of the options from the list below. You can choose an additional option at the fifth and seventh levels.
 
-* **Well-Traveled**: You learn two exotic languages of your choice.
+* **Jaeger**: You gain proficiency with medium armor and scimitars.
 
-* **Woodwise**: You gain proficiency in Survival and Nature, or other skills of your choice if you are already proficient.
+* **Woodwise**: You gain proficiency and expertise in one of the following: Survival or Nature.
 
-* **Danger Sense**: You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. 
+* **Preemptive Strike**: You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet.
+
+* **Well-Traveled**: You learn two languages, both of which can be chosen from the exotic languages table.
+
+* **Eye Strike**: When you deal damage with a sneak attack, the target has disadvantage on weapon attack rolls until the end of their next turn.
 
 
-#### Called Shot
-Starting at 9th level, you can forfeit the additional damage from a successful Sneak Attack to inflict either the Blinded or Restrained condition on a creature. The condition persists until the creature is treated using *Lesser Restoration* or a similar effect.
+#### Fan of Knives
+Starting at 9th level, when you use *Practiced Hands* to throw a weapon, you can do so a second time.
 
 
-#### Inoculation
-By 13th level, you have developed a resistance against most ailments. You are immune to disease and poison.
+#### Use Mystic Device
+At 13th level, the number of items you can attune to increases by one.
 
 
 #### Thief’s Reflexes

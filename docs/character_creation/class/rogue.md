@@ -8,16 +8,16 @@ nav_order: 3
 
 # Rogue
 
-Rogues are the subtler counterpart to Fighters. Not quite as brawny, they make up for their lesser combat talents with a broader base of aptitudes. 
+Rogue is a catch-all term for specialists, be they criminal or otherwise.
 
 ##### Diverse Occupations
-> While rogues are commonly associated with thieves, the class represents a wide variety of different vocations. Archaeologists, sherpas, courtiers, and many others may fall under the category as "versatile specialists".
+> While rogues are commonly associated with thieves, their class represents a wide variety of vocations. Archaeologists, sherpas, and courtiers may fall under the designation, as might military scouts or guerillas. What distinguishes a rogue from a [fighter](fighter) is flexibility and subtlety.
 
-##### Roguecraft
-> Even a modest rogue can boast six different skills and two areas of [Expertise](#expertise). They are universally proficient in the [Cant](#cant) sign language as well as a small [collection of hand tools](../../../data/items/thief_tools).
+##### Tools and Tactics
+> What rogues lack in weapon mastery or spellcraft they make up for in careful strategy. Ambushes, poisons, and [sign language](#cant) are all tools at their disposal. [Sneak Attack](#sneak-attack) is among the most famous, able to turn a thrown dagger into a lethal blow.
 
-##### Sneak Attacks
-> A well-aimed strike can make a dagger more dangerous than a greatsword. Rogues that manage to flank their foes or otherwise secure advantage deal significantly more damage on successful attacks. Clever rogues make use of [Two-Weapon Fighting](../../more/review/maneuvers_offense#two-weapon-fighting) to maximize their chances of landing a felling blow.
+##### Trade Skills
+> Even a modest rogue possesses half a dozen skills and [Expertise](#expertise) in at least two of them. Their skills continue to broaden with time, eventually manifesting into [Trades](../../more/archetypes/index) like [thievery](../../../data/archetypes/rogue_thief) or [marksmanship](../../../data/archetypes/rogue_marksman). Compared to other classes, rogues have a greater degree of freedom in how they evolve their careers.
 
 ---
 

@@ -19,7 +19,7 @@ nav_order: 1
 [*Bless*](../../../data/srd_spells/bless),
 [*Command*](../../../data/srd_spells/command),
 [*Cure Wounds*](../../../data/srd_spells/cure_wounds),
-[*Detect Magic*](../../../data/srd_spells/detect_magic),
+[*Detect Magic*](../../../data/srd_spells/detect_magic)^,
 [*Guiding Bolt*](../../../data/srd_spells/guiding_bolt),
 [*Healing Word*](../../../data/srd_spells/healing_word),
 [*Inflict Wounds*](../../../data/srd_spells/inflict_wounds),
@@ -28,11 +28,11 @@ nav_order: 1
 
 ###### 2nd Level
 [*Aid*](../../../data/srd_spells/aid),
-[*Augury*](../../../data/srd_spells/augury),
+[*Augury*](../../../data/srd_spells/augury)^,
 [*Hold Person*](../../../data/srd_spells/hold_person),
 [*Lesser Restoration*](../../../data/srd_spells/lesser_restoration),
 [*Prayer of Healing*](../../../data/srd_spells/prayer_of_healing),
-[*Silence*](../../../data/srd_spells/silence),
+[*Silence*](../../../data/srd_spells/silence)^,
 [*Spiritual Weapon*](../../../data/srd_spells/spiritual_weapon),
 [*Warding Bond*](../../../data/srd_spells/warding_bond)
 
@@ -48,13 +48,13 @@ nav_order: 1
 
 ###### 4th Level
 [*Death Ward*](../../../data/srd_spells/death_ward),
-[*Divination*](../../../data/srd_spells/divination),
+[*Divination*](../../../data/srd_spells/divination)^,
 [*Freedom of Movement*](../../../data/srd_spells/freedom_of_movement),
 [*Guardian of Faith*](../../../data/srd_spells/guardian_of_faith),
 [*Locate Creature*](../../../data/srd_spells/locate_creature)
 
 ###### 5th Level
-[*Commune*](../../../data/srd_spells/commune),
+[*Commune*](../../../data/srd_spells/commune)^,
 [*Flame Strike*](../../../data/srd_spells/flame_strike),
 [*Greater Restoration*](../../../data/srd_spells/greater_restoration),
 [*Mass Cure Wounds*](../../../data/srd_spells/mass_cure_wounds),
@@ -84,3 +84,5 @@ nav_order: 1
 [*Gate*](../../../data/srd_spells/gate),
 [*Mass Heal*](../../../data/srd_spells/mass_heal),
 [*True Resurrection*](../../../data/srd_spells/true_resurrection)
+
+^ _Spell can be cast as a ritual._

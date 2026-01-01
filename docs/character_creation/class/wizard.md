@@ -8,18 +8,16 @@ nav_order: 4
 
 # Wizard
 
-Wizards are adventurers trained in the practice of arcane spellcasting. Most come from affluent upbringings given the level of formal education required.
+Wizards are scholars whose study of natural forces allows them to work spellcraft. 
 
-##### Well-Rounded Education
-> Arcane magic is taught alongside rhetoric, grammar, and mathematics in academies for the well-to-do. Though few ever develop to the point of casting full-fledged spells, most graduates are aware of what magic is capable of, and many can work simple cantrips.
-> 
-> In less "civilized" parts of the world, wizardry may be taught through apprenticeship. This is prevalent among tribal shamans, village witches, and other rural traditions.
-
-##### Arcane Magic
-> Navean wizards draw ambient energy from ley lines under the earth using a [wand](../../../data/items/arcane_focus), then shape the energy into spells. A wizard can handle energy more skillfully as they advance in level.
+##### Ley Lines
+> Navean mages draw energy off of vast subterranean energy currents called ley lines. Using a [wand](../../../data/items/arcane_focus), they pull slivers of power from these currents and shape them into formations, called spells. More advanced wizards can shape larger quantities of power into increasingly complex workings.
 
 ##### Spellbooks
-> A Navean wizard's selection of spells is typically determined by their [background](../background/index). A [Piper's](../background/piper) spellbook will lean towards charms and illusions, while a [Warlord's](../background/warlord) will focus on combat magic. 
+> A practitioner's first spellbook is influenced by their background. [Warlords](../background/warlord), for example, begin with a spellbook filled with combat magic, while a [Piper's](../background/piper) first spellbook contains illusions and charms. All spellbooks grant wizards the ability to perform [Ritual Magic](#ritual-casting) without preparing ritual spells in advance.
+
+##### Specializations
+> Journeymen come into their own when they choose a [specialization](../../more/archetypes/index). Where spells can be shared between wizards, specializations require uncommon knowledge and dedicated practice in a niche field. [Battle Magic](../../../data/archetypes/wizard_evocation) remains the most common among adventurers.
 
 ---
 
@@ -107,15 +105,15 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
 
 {: .note}
-> **Ritual Casting**
+> ### Ritual Casting
 >
 >You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 >
-> **Spellcasting Focus**
+> ### Spellcasting Focus
 >
 > You can use an arcane focus as a spellcasting focus for your wizard spells.
 >
-> **Learning Spells of 1st Level and Higher**
+> ### Learning Spells of 1st Level and Higher
 >
 > Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook.
 
@@ -151,7 +149,7 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 #### Wizard Table
 
 | Level | Proficiency Bonus | Features                      |
-|-------|-------------------|-------------------------------|
+| ----- | ----------------- | ----------------------------- |
 | 1st   | +2                | Spellcasting, Arcane Recovery |
 | 2nd   | +2                | Arcane Tradition              |
 | 3rd   | +2                | -                             |
@@ -177,7 +175,7 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 ***Spellcasting Progression***
 
 | Level | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| ----- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st   | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |

@@ -11,7 +11,7 @@ nav_order: 1
 
 #### The Four Classes
 
-* **[Clerics](cleric)** are cultists with mystic powers.
+* **[Clerics](cleric)** are cultivators with mystic powers.
 * **[Fighters](fighter)** are expert martial artists with mastery over all weapons.
 * **[Rogues](rogue)** are specialists with a variety of skills.
 * **[Wizards](wizard)** are trained arcanists with knowledge of many rituals.

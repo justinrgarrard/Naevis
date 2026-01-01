@@ -6,9 +6,9 @@ grand_parent: More
 nav_exclude: true
 ---
 
-# Cleric: Winter Witch
+# Cleric: Order of Winter
 
-_Winter is an ancient order that draws their power from primal sorcery. Their initiation rites are rumored to involve moonlit sacrifices over bloodstained altars, with power drawn from the moment of death. Navean Wizardry is said to have been derived from these Old Ways and softened for use by those with faint hearts._
+_Esoteric mystics learned in the old ways of magic. The Order of Winter is a monastic cult that favors occultist rites over academic study. Though comparatively few leave the temples, those that do serve as wandering exorcists and priests._
 
 
 #### Winter Domain Spells
@@ -21,36 +21,27 @@ _Winter is an ancient order that draws their power from primal sorcery. Their in
 | 7th          |          Deathward, Ice Storm |
 | 9th          | Cone of Cold, Dominate Person |
 
+#### Bonus Proficiency
+When you choose this domain at 1st level, you gain proficiency with arcana and learn the [Ray of Frost](../srd_spells/ray_of_frost) cantrip. Your proficiency bonus when using arcana is doubled.
 
-#### Winter's Touch 
-
-At 1st level, you learn the *Ray of Frost* cantrip and gain proficiency with the [Sylvan](../../docs/adventuring/mechanics/languages#sylvan) language.
-
-
-#### Frost Sorcery
-
-At 1st level, your *Ray of Frost* cantrip deviates from the standard casting, growing more powerful as you do.
-
-* **Range**: The spell's range increases by 10 feet for each level of your proficiency bonus.
-
-* **Targets**: The number of targets this spell can affect is equal to your proficiency bonus. Targets must be within 5 feet of one another, and are each subject to an attack roll.
-
-#### Channel Divinity: Deep Slumber
-
-Starting at 2nd level, you can use your Channel Divinity to empower sleep enchantments.
-
-When you cast the _Sleep_ spell, you can use your Channel Divinity with a bonus action to roll the maximum possible result.
 
 #### Winter Gale
+At 1st level, your [Ray of Frost](../srd_spells/ray_of_frost) cantrip is accompanied by physical force. If a target is damaged by the cantrip and is Large or smaller, they are pushed back 10 feet.
 
-At 6th level, your *Ray of Frost* cantrip is accompanied by physical force. Targets damaged by the cantrip are pushed back 10 feet.
+
+#### Channel Divinity: Deep Slumber
+Starting at 2nd level, you can use your Channel Divinity to empower sleep enchantments.
+
+When you cast the _Sleep_ spell, you can expend a use of your Channel Divinity to roll the maximum possible result.
+
+
+#### Cold Front
+At 6th level, [Ray of Frost](../srd_spells/ray_of_frost) grows in power. When you cast it, you can also make a ranged spell attack against any creature within 5 feet of the target. Any liquids within the area of effect are frozen solid.
 
 
 #### Potent Spellcasting
-
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 
 #### Inner Strength
-
 At 17th level, you gain an additional use of _Channel Divinity_.

@@ -17,42 +17,20 @@ By default, the four _Basic Rules_ archetypes are permitted for use in this sett
 | **Rogue**   | [Thief](../../../data/archetypes/rogue_thief)          |
 | **Wizard**  | [Evocation](../../../data/archetypes/wizard_evocation) |
 
-##### Setting Archetypes
+## Setting Archetypes
 
-> These optional archetypes were designed for use with Naevis.
+These optional archetypes were designed for use with Naevis.
 
-| Class       | Archetypes                                              |                                                           |
-| :---------- | :------------------------------------------------------ | :-------------------------------------------------------- |
-| **Cleric**  | [Demon Cult](../../../data/archetypes/cleric_demon)     | [Winter Cult](../../../data/archetypes/cleric_winter)     |
-| **Fighter** | [Lionheart](../../../data/archetypes/fighter_lionheart) | [Warprince](../../../data/archetypes/fighter_warprince)   |
-| **Rogue**   | [Delver](../../../data/archetypes/rogue_delver)         | [Trailblazer](../../../data/archetypes/rogue_trailblazer) |
-| **Wizard**  | [Court Mage](../../../data/archetypes/wizard_court)     | [Djinn Mage](../../../data/archetypes/wizard_djinn)       |
-
-
----
-
-#### Adapting Archetypes
-
-Should your Game Master allow other archetypes, they may require adjustments for use in this setting. 
+| Class       | Archetypes                                            |                                                        |
+| :---------- | :---------------------------------------------------- | :----------------------------------------------------- |
+| **Cleric**  | [Fire](../../../data/archetypes/cleric_demon)         | [Ice](../../../data/archetypes/cleric_winter)          |
+|             | [Stone](../../../data/archetypes/cleric_stone)        | [Wind](../../../data/archetypes/cleric_wind)           |
+| **Fighter** | [Knight](../../../data/archetypes/fighter_lionheart)  | [Fencer](../../../data/archetypes/fighter_warprince)   |
+| **Rogue**   | [Marksman](../../../data/archetypes/rogue_marksman)   | [Explorer](../../../data/archetypes/rogue_trailblazer) |
+| **Wizard**  | [Illusionist](../../../data/archetypes/wizard_mirage) | [Diviner](../../../data/archetypes/wizard_quartz)      |
 
 
-##### Guidelines
-
-> * **Replace Spells** that do not exist in the _Basic Rules_ with those that do.
-> 
-> * **Provide Context** for where your abilities come from in this setting.
-
-
-##### Example: War Domain
-
-> _Clerics of the War domain draw their power from qi, gradually accumulating energy through training and meditation. Their tradition stems from the Elven Empire and places great importance on demonstrating skill through combat._
+{: .note}
+> ##### Other Archetypes
 >
-> Note that the spells for this archetype have been changed to their nearest Basic Rules equivalents.
-
-| Cleric Level |                                                                      Spells |
-| :----------- | --------------------------------------------------------------------------: |
-| 1st          |        [Cure Wounds](../../../data/srd_spells/cure_wounds), Shield of Faith |
-| 3rd          |                                              Magic Weapon, Spiritual Weapon |
-| 5th          | [Beacon of Hope](../../../data/srd_spells/beacon_of_hope), Spirit Guardians |
-| 7th          |                                              Freedom of Movement, Stoneskin |
-| 9th          |   Flame Strike, [Dominate Person](../../../data/srd_spells/dominate_person) |
+> Archetypes from *The Player's Handbook* and other sources are not supported by Naevis.

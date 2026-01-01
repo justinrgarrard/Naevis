@@ -22,10 +22,10 @@ nav_order: 1
 ###### 1st Level
 [*Burning Hands*](../../../data/srd_spells/burning_hands),
 [*Charm Person*](../../../data/srd_spells/charm_person),
-[*Comprehend Languages*](../../../data/srd_spells/comprehend_languages),
-[*Detect Magic*](../../../data/srd_spells/detect_magic),
+[*Comprehend Languages*](../../../data/srd_spells/comprehend_languages)^,
+[*Detect Magic*](../../../data/srd_spells/detect_magic)^,
 [*Disguise Self*](../../../data/srd_spells/disguise_self),
-[*Identify*](../../../data/srd_spells/identify),
+[*Identify*](../../../data/srd_spells/identify)^,
 [*Mage Armor*](../../../data/srd_spells/mage_armor),
 [*Magic Missile*](../../../data/srd_spells/magic_missile),
 [*Shield*](../../../data/srd_spells/shield),
@@ -100,3 +100,5 @@ nav_order: 1
 [*Meteor Swarm*](../../../data/srd_spells/meteor_swarm),
 [*Power Word Kill*](../../../data/srd_spells/power_word_kill),
 [*Time Stop*](../../../data/srd_spells/time_stop)
+
+^ _Spell can be cast as a ritual._

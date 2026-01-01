@@ -45,7 +45,7 @@ grand_parent: Equipment
 {: .mundane-item}
 > **Holy Symbol, Amulet or Shield**
 >
-> A holy symbol is a representation of membership in a [mystery cult](../../../character_creation/class/cleric).
+> A holy symbol is a representation of membership in a [sect](../../../character_creation/class/cleric).
 >
 > A cleric can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
 

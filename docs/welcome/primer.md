@@ -16,9 +16,11 @@ parent: Welcome
 
 #### You
 
-> ... are an adventurer, an individual of unusual skill and remarkable drive, come to the Canvaslands for [your own ends](../character_creation/background/index). 
+> ... are an adventurer, come to the Canvaslands for [your own ends](../character_creation/background/index). 
 >
-> You may be a swordsman, a scoundrel, or a practitioner of some esoteric art. But first and foremost, you are a survivalist. You face hunger and thirst as readily as any monster. Your wits, rather than skill at arms, are your greatest asset.
+> You may be a swordsman, a scoundrel, or a practitioner of some esoteric art. But first and foremost, you are a survivalist.
+> 
+> You face hunger and thirst as readily as any monster. Your wits are your greatest asset.
 >
 > As you venture into danger, keep these three guidelines in mind:
 >
@@ -38,14 +40,14 @@ parent: Welcome
 > 
 > ##### The Nameless Desert
 >
-> A [vast arid desert](../more/the_world/nameless_desert) prone to sandstorms and drought. Giant scorpions and other megafauna hunt for any travelers foolish enough to venture in without a guide.
+> A [vast arid desert](../more/the_world/nameless_desert) prone to sandstorms and drought. Giant scorpions comb the sands for any traveler foolish enough to walk the wastes.
 
 
 #### People
 
 > ##### Adventurers
 > 
-> The greedy, the desperate, and the hopeful. [Persons of talent](../character_creation/index) that have left the comforts of civilization to plumb the City's depths. 
+> The greedy, the desperate, and the hopeful. Persons of talent that have left the comforts of civilization to plumb the City's depths. 
 >
 > ##### Embassies
 >
@@ -53,7 +55,7 @@ parent: Welcome
 >
 > ##### City Dwellers
 >
-> Strange, monstrous [creatures](../more/the_city_below/index) that speak in tongues and wield powerful magic. Native to the City's underground tunnels.
+> Strange, monstrous creatures that speak in tongues and wield powerful magic. Native to the City's underground tunnels.
 
 
 #### Languages
@@ -61,14 +63,7 @@ parent: Welcome
 > | Language        | Description                                                     |
 > | :-------------- | :-------------------------------------------------------------- |
 > | **Common**      | The human language, widely used for trade and diplomacy.        |
-> | **Undercommon** | The spoken language of orcs, kobolds, and other City Dwellers.  |
-> | **Infernal**    | The written language of orcs, kobolds, and other City Dwellers. |
-> | **Sylvan**      | The secret language of beasts.                                  |
-> | **Abyssal**     | The secret language of the dead.                                |
-
-
-#### Tips
-
-> * Avoid fair fights.
-> * Keep an open mind.
-> * [You are more than your character's class](../adventuring/strategy/delving_tips#3-be-more-than-a-stat-block).
+> | **Undercommon** | The language of orcs, kobolds, and other City Dwellers.  |
+> | **Infernal**    | The language of ancient tomes and strange magics. |
+> | **Sylvan**      | The language of beasts and fey.                                  |
+> | **Abyssal**     | The language of the dead and damned.                                |

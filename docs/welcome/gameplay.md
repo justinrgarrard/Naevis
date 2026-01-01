@@ -14,12 +14,8 @@ parent: Welcome
 
 ##### The Typical Dungeon
 
-> An average session consists of the party exploring a map made of index cards. Each [Room](../gm_guide/toolbox/dungeons/index) may contain some manner of threat, treasure, hazard, or oddity. As the party explores, more of the map is revealed, with most single-session dungeons containing roughly twelve rooms.
+> An average session consists of the party exploring a map made of index cards. Each [Room](../gm_guide/toolbox/dungeons/index) may contain a threat, treasure, hazard, or oddity. As the party explores, more of the map is revealed, with most single-session dungeons containing roughly twelve rooms.
 
-
-![Dungeon Rooms as Cards, Partial](../../../assets/img/dungeon_01.jpg)
-
-![Dungeon Rooms as Cards, Full](../../../assets/img/dungeon_02.jpg)
 
 ---
 

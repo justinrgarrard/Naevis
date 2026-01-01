@@ -19,7 +19,7 @@ You came to the City to test your abilities against a true challenge. You may be
 {: .background-feature}
 > **First Blood**
 > 
-> You have advantage on initiative rolls and add your proficiency bonus to the result of such rolls. You cannot be surprised while awake.
+> You have advantage on initiative rolls and add your proficiency bonus to the result. 
 
 
 {: .background-spells}

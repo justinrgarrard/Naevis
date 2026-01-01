@@ -45,18 +45,18 @@ Navean elves belong to the Elven Empire, a sprawling nation that covers nearly a
 
 ---
 
-#### Background
-
-##### Homeland
-
-> Vast and sprawling, the Elven Empire dominates global politics as the singular greatest force known to Kindred. Its holdings span a collection of Elven and Human provinces that run from the Eastern Shores to the Western Mountains. The Ivory Emperor (3rd of her dynasty and 22nd to rule) is held up as *Steward of the World Itself*.
-
-##### Mandate of Heaven
-
+{: .note}
+> # History
+> ##### Homeland
+> 
+> Vast and sprawling, the Elven Empire dominates global politics as the singular greatest force known to Kindred. Its holdings span a collection of Elven and Human provinces that run from the Eastern Shores to the Western Mountains. The Ivory Emperor (3rd of her dynasty and 22nd to rule) is held up as Steward of the World Itself.
+> 
+> ##### Mandate of Heaven
+> 
 > The inner courts of the Elven Empire are awash in sordid schemes. There are power-hungry eunuchs and machiavellian empress dowagers, religious schisms and clan wars, foul sorcery and bewitching alchemy. Organizing it all is a belief that those who rule do so with the blessing of the gods. Should they be removed from power, then that too is the will of the divine.
-
-##### Bloodlines
-
+> 
+> ##### Bloodlines
+>
 > Low-borne Elves are called Wood Elves. Though they may belong to a lower caste, within the Empire they are second only to High Elven nobility. Their responsibilities include the management of servants, the carrying out of Imperial orders, and the facilitation of military campaigns.
 > 
 > Successful usurpations of the throne have seen Wood Elves elevated to High Elves in the past. This is usually accompanied by retroactive adoptions or fortuitous "discoveries" in one's family tree in order to maintain a tenuous claim to pure blood.

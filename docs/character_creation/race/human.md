@@ -15,7 +15,7 @@ Humans live in Elven or Dwarven lands. They have an aptitude for versatility.
 >
 > **Sylvan**, the language of beasts, is inherited through blood rather than instruction.
 >
-> **Abyssal**, the language of the dead, is also heritable, but far rarer and more stigmatized.
+> **Abyssal**, the language of the dead, is also heritable, but far rarer and stigmatized.
 
 #### Standard
 
@@ -40,16 +40,17 @@ Humans live in Elven or Dwarven lands. They have an aptitude for versatility.
 
 ---
 
-#### Background
-
-##### Homeland
-
-> The disparate human tribes which once roamed the grasslands were conquered long ago. Now they serve as farmers, miners, soldiers, and occasionally craftsmen under Dwarven or Elven rule. They receive little education and have comparatively few rights, leading a considerable number to strike out as adventurers in the hopes of escaping poverty. 
-
-##### Servile Clans
-
-> The most fortunate of humans live in clans dedicated to an influential family of Elves or Dwarves. Owing to differences in lifespan, several generations might serve the same lord as spies, wizards, elite warriors, or household staff. 
-
-##### Age of Legends
-
-> The earliest Elven records speak of dangerous human factions that existed before their race was brought to heel. Human [necromancers](../../adventuring/mechanics/languages#abyssal) who marshalled vast armies of the dead. Human [dragon riders](../../adventuring/mechanics/languages#sylvan) that bonded with wyverns and fought from the skies. A thousand years were spent on their subjugation, culminating in the erasure of all such records from public histories. Now only the most trusted of High Elven scholars are permitted to know how close the Empire once came to destruction at human hands.
+{: .note}
+> # History
+>
+> ##### Homeland
+> 
+> The disparate human tribes once formed kingdoms across the continent. Now they serve as farmers, miners, soldiers, and occasionally craftsmen under Dwarven or Elven rule. They receive little education and have comparatively few rights, leading a considerable number to strike out as adventurers. 
+> 
+> ##### Servile Clans
+> 
+> A few fortunate humans live in clans dedicated to an influential family of Elves or Dwarves. Owing to differences in lifespan, several generations might serve the same lord as spies, wizards, elite warriors, or household staff. 
+>
+> ##### The Blood of Kings
+>
+> Humans are the only Kindred race known to inherit languages through bloodlines. In ages past, they may have been wyvern riders or necromancers. 

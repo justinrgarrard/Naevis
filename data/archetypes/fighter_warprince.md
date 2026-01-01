@@ -8,24 +8,22 @@ nav_exclude: true
 
 # Fighter: Warprince
 
-_Warprinces are terrors on the battlefield, dancing between foes with lethal grace. Their approach to combat mixes well-placed kicks with more traditional weapon attacks._
+_Warriors who practice dueling martial arts. Used to settle legal disputes in high courts, this style was devised by Elven courtiers. Its techniques make extensive use of elbows and kicks intermixed with weapon strikes._
 
-#### Bonus Proficiencies
-When you choose this archetype at 3rd level, you gain proficiency in acrobatics. 
+#### Aura
+Starting at 3rd level, you can intimidate others with the pressure of your presence. You can add your Strength modifier to (Charisma) Intimidation checks.
 
 
-#### Unarmed Strike
+#### Improved Unarmed Strike
 Starting at 3rd level, your unarmed attacks can use Dexterity instead of Strength for the attack and damage rolls. You roll a d4 in place of normal damage.
 
 
-#### Ferocious Action
-At 3rd level, your extensive training allows you to take a bonus action on each of your turns in combat. This action can be used to take the **Shove**, **Grapple**, **Unarmed Strike**, or **Two-Weapon Fighting** actions.
-
-When you use the **Two-Weapon Fighting** action in this way, you can do so even when using weapons that lack the _Light_ property.
+#### Swift Action
+At 3rd level, your extensive training allows you to take a bonus action on each of your turns in combat. This action can be used to take the **Shove**, **Grapple**, and **Unarmed Strike** actions. 
 
 
-#### Counter
-Starting at 7th level, after an enemy makes a melee attack against you, you can expend your reaction to make a melee weapon attack against them. If the counterattack lands, it counts as a critical hit. Additionally, your proficiency bonus for acrobatics checks is doubled.
+#### Reactive Evasion
+Starting at 7th level, when an enemy makes a melee weapon attack against you, you can expend your reaction to take the **Dodge** action.
 
 
 #### Blitz
@@ -33,7 +31,7 @@ At 10th level, you learn two new techniques for striking down hordes of foes.
 
 * **Whirlwind Attack**: You can use your action to make a melee weapon attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
 
-* **Flurry of Blows**: When you use a bonus action to activate Unarmed Strike, you can make two attacks instead of one.
+* **Flurry of Blows**: When you use a bonus action to activate **Unarmed Strike** or **Shove**, you can take that action twice instead of once.
 
 
 #### Glancing Blows

@@ -8,17 +8,16 @@ nav_order: 2
 
 # Fighters
 
-Fighters are drawn from the ranks of sellswords and soldiers. Individuals that merit membership in this class are distinguished warriors known for their combat prowess. 
+Fighters are expert combatants far beyond the typical town guard or rank-and-file soldier.
 
 ##### Martial Arts
-> Skill at arms is the bare minimum requirement for one to be a fighter. Intelligent use of maneuvers, both [offensive](../../more/review/maneuvers_offense) and [defensive](../../more/review/maneuvers_defense), is crucial. Fighters also adopt or adapt a martial arts tradition, reflected in their [Fighting Style](#fighting-style) and [archetype](../../more/archetypes/index).
+> Skill at arms is the bare minimum qualification. Intelligent use of maneuvers, both [offensive](../../more/review/maneuvers_offense) and [defensive](../../more/review/maneuvers_defense), is crucial. Fighters also have a preferred [Fighting Style](#fighting-style), and eventually adopt a [martial arts tradition](../../more/archetypes/index).
 
-##### Honor
-> One's reputation and history of service take on a force of their own, though it need not be positive. Heroes and black knights may find their names equally compelling for different reasons. **When you use your reputation as a warrior, you may make a Strength (Persuasion) or Strength (Intimidation) check.** 
+##### Unyielding Strength
+> Where [cultivators](cleric) split their attention between magic and warcraft, fighters train exclusively in the latter. They are hardier, better equipped, and more specialized in the arts of battle. Their natural talents ([Second Wind](#second-wind) and [Action Surge](#action-surge)) recover more quickly than spellcraft.
 
-##### Endurance
-> Fighters begin play with the [Second Wind](#second-wind) ability, which functions similarly to a rechargeable [potion of healing](../../../data/alchemics/potion_of_healing). This ability makes them the sturdiest of the four base classes, able to recover health even after their Hit Dice are expended.
-
+##### Legacy
+> A warrior's reputation takes on a force of its own. Fighters who make a name for themselves will find that it carries weight. Petty bandits may cower in the face of a title-bearing fighter, while those seeking to make their own legend may come bearing challenge.
 
 ---
 

@@ -20,11 +20,11 @@ Adventurers have two options for starting equipment.
 
 Items are organized below in "Shops" for the sake of convenience. Purchases are not restricted; players can acquire any item regardless of character class.
 
-| Shops                               |                                  |
-| :---------------------------------- | :------------------------------- |
-| [Cleric Shop](shops/cleric_gear)    | [Rogue Shop](shops/rogue_gear)   |
-| [Fighter Shop](shops/fighter_gear)  | [Wizard Shop](shops/wizard_gear) |
-| [Alchemics Shop](alchemics) (25 gp) | [Charms Shop](charms) (50 gp)    |
+| Shops                              |                                  |
+| :--------------------------------- | :------------------------------- |
+| [Cleric Shop](shops/cleric_gear)   | [Rogue Shop](shops/rogue_gear)   |
+| [Fighter Shop](shops/fighter_gear) | [Wizard Shop](shops/wizard_gear) |
+| [Alchemics Shop](alchemics)        | [Charms Shop](charms)            |
 
 {: .note}
 > **Pricing and Selection**

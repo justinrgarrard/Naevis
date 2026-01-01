@@ -43,18 +43,19 @@ Halflings live as nomads in winding caravans, carrying trade across all nations.
 
 ---
 
-#### Background
-
-##### Homeland
-
-> Halflings once lived among humans in villages and shires. They farmed, managed animals, hunted, and lived off the land. When the Elves came, the Halflings fled their homelands while the Humans remained. Now, more than a thousand years later, the Halfling people wander without a home. They live their lives traveling from one land to the next in tribal caravans. 
-
-##### Two Peoples
-
-> The Halfling race has two distinct ethnic groups in the current era. The Stout tribes are traditionalists who live off the land as expert hunters. In lean seasons, they work as mercenaries for other nations. The Lightfoot tribes have a far different lifestyle as nomadic merchants. They facilitate the movement of goods between the great powers and organize complex trade agreements.
+{: .note}
+> # History
 >
-> The two collectives have little in common with one another. Though relations are not cold, they are not warm either, with each struggling to relate to the other. They are known to respect ties of kinship and will aid each other in times of need.
-
-##### Leadership
-
-> Halfling tribes are traditionally governed by a chieftain, a shaman, and an elder. In Stout tribes these roles are literal; a chieftain is a strong warrior, a shaman is a cultist, and an elder is the oldest living member of the tribe. Lightfoot tribes take a less dated approach. Their chieftain is more accurately called a mayor, their shaman is an educated wizard, and their elder is typically the clan accountant.
+>##### Homeland
+>
+> Halflings once lived among humans in villages and shires. They farmed, managed animals, hunted, and lived off the land. When the Elves came, the Halflings fled their homelands while the Humans remained. Now, more than a thousand years later, the Halfling people wander without a home. They live their lives traveling from one land to the next in caravans. 
+>
+> ##### Two Peoples
+>
+> The Halfling race has two distinct ethnic groups in the current era. The Stout tribes are traditionalists who live off the land as expert hunters. In lean seasons, they work as mercenaries for other nations. The Lightfoot tribes have a different lifestyle as nomadic merchants. They facilitate the movement of goods between the great powers and organize complex trade agreements.
+>
+> The two collectives have little in common with one another. Though relations are not cold, they are not warm either. 
+>
+> ##### Leadership
+>
+> Halfling tribes are traditionally governed by a chieftain, a shaman, and an elder. In Stout tribes these roles are literal; a chieftain is a strong warrior, a shaman is a cultivator, and an elder is the oldest living member of the tribe. In Lightfoot tribes, the chieftain is an elected mayor, the shaman is an educated wizard, and the elder is the clan accountant.
