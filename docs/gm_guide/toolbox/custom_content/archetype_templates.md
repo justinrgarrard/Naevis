@@ -24,7 +24,7 @@ The templates in this section can be used when designing new archetypes. Note th
 | ----- | -------------- | --------------------------- |
 | 3     | Aura           | Strength Intimidation Bonus |
 | 3     | _ Action       | Bonus Action Ability        |
-| 7     | Reactive _     | Reaction Ability            |
+| 7     | _ Counter      | Reaction Ability            |
 | 10    | *              | Wildcard                    |
 | 15    | Glancing Blows | Half Damage on Miss         |
 | 18    | Dauntless      | Action Surge Recharge       |
@@ -39,8 +39,8 @@ Fighters suffer from a lack of tactical options in and out of combat. Their arch
 #### Bonus Actions
 The *_ Action* ability adds tactical variety by offering bonus actions. These have the psychological benefit of giving the player more tactics for use during their turn. They also have the gameplay benefit of not interfering with the fighter's typical role (make weapon attacks).
 
-#### Reactions
-The *Reactive _* ability adds a reaction, giving players a reason to be involved outside of their turn. 
+#### Counter
+The *_ Counter* ability adds a reaction, giving players a reason to be involved outside of their turn. 
 
 ---
 

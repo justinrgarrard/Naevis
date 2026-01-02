@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Arms
-parent: Items
-grand_parent: Equipment
+parent: Equipment
+grand_parent: Character Creation
 ---
 
 # Arms
@@ -49,6 +49,24 @@ grand_parent: Equipment
 | Longsword       | 1d8 slashing    | 3 lb.  | Versatile (1d10), **martial**, **elf**, **rogue**                    |
 | Rapier          | 1d8 piercing    | 2 lb.  | Finesse, **martial**, **rogue**                                      |
 | Warhammer       | 1d8 bludgeoning | 2 lb.  | Versatile (1d10), **martial**, **dwarf**                             |
+
+
+#### Firearms (25 gp) 
+
+| Name   | Damage        | Weight | Properties                                                           |
+| :----- | :------------ | :----- | :------------------------------------------------------------------- |
+| Pistol | 1d8 piercing  | 3 lb.  | Ammunition, range (30/120), light, loading, **martial**              |
+| Musket | 1d12 piercing | 10 lb. | Ammunition, range (100/400), heavy, loading, two-handed, **martial** |
+
+
+#### Magic Weapons (50 gp)
+
+| Name                                                             | Damage          | Weight | Properties                                                                      |
+| :--------------------------------------------------------------- | :-------------- | :----- | :------------------------------------------------------------------------------ |
+| [Adamantium Hammer](../../../data/magic_items/adamantium_hammer) | 1d8 bludgeoning | 2 lb.  | Versatile (1d10), **martial**, **dwarf**, requires attunement                   |
+| [Mist Dagger](../../../data/magic_items/mist_dagger)             | 1d4 piercing    | 1 lb.  | Finesse, light, thrown (20/60), **wizard**, requires attunement                 |
+| [Mythril Longsword](../../../data/magic_items/mythril_longsword) | 1d8 slashing    | 3 lb.  | Finesse, versatile (1d10), **martial**, **elf**, **rogue**, requires attunement |
+| [Volt Staff](../../../data/magic_items/volt_staff)               | 1d6 bludgeoning | 4 lb.  | Versatile (1d8), **wizard**, requires attunement                                |
 
 {: .language}
 > Adventurers proficient in **Dwarven** get a 20% discount on weapons and armor, to a minimum price of 1 gp.

@@ -25,12 +25,9 @@ _Wandering cultivators who can call the winds to their aid. Wind Dancing is foun
 #### Bonus Proficiencies
 When you choose this domain at 1st level, you gain proficiency with martial weapons. 
 
-Additionally, while you are not wearing any armor or a shield, your armor class equals 10 + your Dexterity modifier + your Wisdom modifier. 
 
-
-#### Beloved by the Winds
-
-At 1st level, when you cast [Shield](../srd_spells/shield), the effects last for an additional round.
+#### Unarmored Defense
+At 1st level, while you are not wearing any armor or a shield, your armor class equals 10 + your Dexterity modifier + your Wisdom modifier. Your movement speed is increased by 10 feet when you do so.
 
 
 #### Channel Divinity: Lesser Haste

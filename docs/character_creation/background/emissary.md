@@ -26,6 +26,8 @@ You came to the City at the behest of a greater power. You may be a knight repre
 >
 > *Charm Person, Comprehend Languages, Detect Magic, Disguise Self, Mage Armor, Silent Image*
 
+---
+
 #### (Optional) Trait Tables
 
 ##### Personality Traits

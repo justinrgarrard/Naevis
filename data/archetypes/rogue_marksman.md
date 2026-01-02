@@ -34,7 +34,7 @@ At 3rd level, you gain one of the options from the list below. You can choose an
 #### Sharpshooting
 Starting at 9th level, you learn new techniques for ranged weapons. 
 
-* **Unerring Shot**: You can use your action to make an attack that ignores the benefits of half or three-quarters cover. Creatures without any cover take an additional 1d6 damage from this attack. 
+* **Unerring Shot**: You can use your action to make a ranged weapon attack that ignores the benefits of half or three-quarters cover. Creatures without any cover take an additional 1d6 damage from this attack. 
 
 * **Volley**: You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target. This attack cannot benefit from sneak attack.
 

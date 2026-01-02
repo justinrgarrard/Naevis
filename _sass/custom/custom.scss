@@ -3,6 +3,16 @@ body {
     font-family: "Lisu Bosa";
 }
 
+// p, li, td {
+//     font-style: italic;
+// }
+
+// .note {
+//     p, li, td {
+//     font-style: normal;
+//     }
+// }
+
 h1,h2,h3,h4,h5,h6 {
     font-family: "Aref Ruqaa Ink";
 }
@@ -47,9 +57,10 @@ h5 {
     font-weight: bold;
 }
 
-.note, .language, .exotic-language {
+.note, .language, .exotic-language, .archetype-feature{
     h5 {
         margin-top: 0;
+        color: #5c5962;
     }
 }
 
@@ -90,4 +101,16 @@ p {
 // Override table settings. ///////////////////////////////////////////////////
 .table-wrapper {
     @include fs-6
+}
+
+table tbody tr:nth-child(even) {
+    td {
+        background-color: #f5f6fa;
+    }
+}
+
+table thead tr {
+    th {
+        background-color: #f5f6fa;
+    }
 }

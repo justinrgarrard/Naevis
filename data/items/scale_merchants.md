@@ -1,6 +1,6 @@
 ---
 layout: default
-title: scale merchant's
+title: scale merchant
 nav_exclude: true
 ---
 

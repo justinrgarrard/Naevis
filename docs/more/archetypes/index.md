@@ -8,18 +8,20 @@ has_toc: false
 
 # Archetypes
 
-By default, the four _Basic Rules_ archetypes are permitted for use in this setting.
+{: .note}
+> ##### External Material
+>
+> Naevis is designed to work with the archetypes on this page. Players that are interested in other archetypes should work with their GM on a case-by-case basis.
 
-| Class       | Archetype                                              |
-| :---------- | :----------------------------------------------------- |
-| **Cleric**  | [Life](../../../data/archetypes/cleric_life)           |
-| **Fighter** | [Champion](../../../data/archetypes/fighter_champion)  |
-| **Rogue**   | [Thief](../../../data/archetypes/rogue_thief)          |
-| **Wizard**  | [Evocation](../../../data/archetypes/wizard_evocation) |
+
+| Class       | Basic Rules Version                                    | Optional Variant                                               |
+| :---------- | :----------------------------------------------------- | :------------------------------------------------------------- |
+| **Cleric**  | [Life](../../../data/archetypes/cleric_life)           | [Variant](../../../data/archetypes/cleric_life#alternate)      |
+| **Fighter** | [Champion](../../../data/archetypes/fighter_champion)  | [Variant](../../../data/archetypes/fighter_champion#alternate) |
+| **Rogue**   | [Thief](../../../data/archetypes/rogue_thief)          | [Variant](../../../data/archetypes/rogue_thief#alternate)      |
+| **Wizard**  | [Evocation](../../../data/archetypes/wizard_evocation) | [Variant](../../../data/archetypes/wizard_evocation#alternate) |
 
 ## Setting Archetypes
-
-These optional archetypes were designed for use with Naevis.
 
 | Class       | Archetypes                                            |                                                        |
 | :---------- | :---------------------------------------------------- | :----------------------------------------------------- |
@@ -30,7 +32,4 @@ These optional archetypes were designed for use with Naevis.
 | **Wizard**  | [Illusionist](../../../data/archetypes/wizard_mirage) | [Diviner](../../../data/archetypes/wizard_quartz)      |
 
 
-{: .note}
-> ##### Other Archetypes
->
-> Archetypes from *The Player's Handbook* and other sources are not supported by Naevis.
+

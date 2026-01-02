@@ -28,6 +28,8 @@ You came to the City to be at the forefront of innovation. You have an interest 
 >
 > *Burning Hands, Charm Person, Comprehend Languages, Detect Magic, Identify, Sleep*
 
+---
+
 #### (Optional) Trait Tables
 
 ##### Personality Traits

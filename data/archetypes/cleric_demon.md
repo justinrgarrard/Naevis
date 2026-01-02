@@ -23,7 +23,7 @@ _Fell warriors whose qi is like a hungry flame. Demonic cults practice heretical
 
 
 #### Bonus Proficiencies
-When you choose this domain at 1st level, you gain proficiency in deception and learn the [Fire bolt](../srd_spells/fire_bolt) cantrip. Your proficiency bonus when using deception is doubled.
+When you choose this domain at 1st level, you learn the [Fire bolt](../srd_spells/fire_bolt) cantrip.
 
 
 #### Reap
@@ -34,10 +34,8 @@ Beginning at 1st level, when you reduce a hostile creature to 0 hit points, you 
 Starting at 2nd level, you can use your Channel Divinity as a reaction when you are damaged by a creature within 60 feet. The creature takes 1d10 fire damage for each level of your proficiency bonus.
 
 
-#### Channel Divinity: Consume
-Beginning at 6th level, you can use your Channel Divinity with an action to consume the life energy of another creature.
-
-When you do so, make a melee spell attack. The creature takes 3d6 necrotic damage or half that amount if the attack fails. You regain hit points equal to the damage dealt.
+#### Hellfire
+Beginning at 6th level, when you cast a spell that deals fire damage, you can instead choose to deal necrotic damage.
 
 
 #### Potent Spellcasting

@@ -8,11 +8,11 @@ parent: Welcome
 # Primer
 
 {: .note}
-> ##### System
+> ##### The Big Idea
 >
-> * **[5E Basic Rules](../more/DnD_BasicRules_2018.pdf)**
-> * **Four Classes**: Fighter, Cleric, Rogue, Wizard.
-> * **Four Races**: Elf, Dwarf, Halfling, Human.
+> * *Level 1 - 12*
+> * *Four Races: Elf, Dwarf, Halfling, Human*
+> * *Four Classes: Fighter, Cleric, Rogue, Wizard*
 
 #### You
 
@@ -63,7 +63,7 @@ parent: Welcome
 > | Language        | Description                                                     |
 > | :-------------- | :-------------------------------------------------------------- |
 > | **Common**      | The human language, widely used for trade and diplomacy.        |
-> | **Undercommon** | The language of orcs, kobolds, and other City Dwellers.  |
-> | **Infernal**    | The language of ancient tomes and strange magics. |
-> | **Sylvan**      | The language of beasts and fey.                                  |
-> | **Abyssal**     | The language of the dead and damned.                                |
+> | **Undercommon** | The language of orcs, kobolds, and other City Dwellers.         |
+> | **Infernal**    | The language of ancient tomes and strange magics.               |
+> | **Sylvan**      | The language of beasts and fey.                                 |
+> | **Abyssal**     | The language of the dead and damned.                            |

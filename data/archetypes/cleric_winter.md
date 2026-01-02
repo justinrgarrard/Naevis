@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Order of Winter
 
-_Esoteric mystics learned in the old ways of magic. The Order of Winter is a monastic cult that favors occultist rites over academic study. Though comparatively few leave the temples, those that do serve as wandering exorcists and priests._
+_Mystics learned in the old ways of magic. The Order of Winter is a monastic cult that favors occultist rites over academic study. Though comparatively few leave the temples, those that do serve as wandering exorcists and priests._
 
 
 #### Winter Domain Spells
@@ -22,7 +22,7 @@ _Esoteric mystics learned in the old ways of magic. The Order of Winter is a mon
 | 9th          | Cone of Cold, Dominate Person |
 
 #### Bonus Proficiency
-When you choose this domain at 1st level, you gain proficiency with arcana and learn the [Ray of Frost](../srd_spells/ray_of_frost) cantrip. Your proficiency bonus when using arcana is doubled.
+When you choose this domain at 1st level, you learn the [Ray of Frost](../srd_spells/ray_of_frost) cantrip.
 
 
 #### Winter Gale

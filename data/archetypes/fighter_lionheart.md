@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Fighter: Lionheart
 
-_Warriors who practice knightly martial arts. A common choice of officers and soldiers, this style has its origins in human kingdoms. Its practices emphasize powerful swings and control over the battlefield._
+_Warriors who practice knightly martial arts. A common choice of officers and soldiers, this style has its origins in human kingdoms. Its practice emphasizes powerful swings and control over the battlefield._
 
 #### Aura
 Starting at 3rd level, you can intimidate others with the pressure of your presence. You can add your Strength modifier to (Charisma) Intimidation checks.
@@ -24,7 +24,7 @@ At 3rd level, your extensive training allows you to take a bonus action on each 
 * **Cleave**: Make an additional weapon attack against a creature within 5 feet of the target.
 
 
-#### Reactive Threshold
+#### Preemptive Counter
 At 7th level, creatures provoke an opportunity attack when they enter your reach. A creature struck by your opportunity attack has their movement set to zero until the start of their next turn.
 
 

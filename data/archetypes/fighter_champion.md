@@ -50,7 +50,7 @@ At 18th level, you attain the pinnacle of resilience in battle. At the start of 
 > At 3rd level, if you miss on a weapon attack, you can use your bonus action to attack again.
 > 
 >
-> #### Reactive Counter
+> #### Instinctive Counter
 > At 7th level, if an enemy attacks you with a melee weapon, you can use your reaction to strike back at them. You have advantage on this attack.
 >
 >

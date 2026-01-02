@@ -26,6 +26,8 @@ You came to the City to understand its mysteries. You may be an archaeologist hu
 >
 > *Comprehend Languages, Detect Magic, Identify, Mage Armor, Silent Image, Sleep*
 
+---
+
 #### (Optional) Trait Tables
 
 ##### Personality Traits

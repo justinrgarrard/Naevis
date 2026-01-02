@@ -57,7 +57,7 @@ Starting at 17th level, when you would normally roll one or more dice to restore
 > | Cleric Level |                                Spells |
 > | :----------- | ------------------------------------: |
 > | 1st          |             Healing Word, Cure Wounds |
-> | 3rd          | Lesser Restoration, Prayer of Healing |
+> | 3rd          |               Aid, Lesser Restoration |
 > | 5th          |           Mass Healing Word, Revivify |
 > | 7th          |       Death Ward, Freedom of Movement |
 > | 9th          |          Mass Cure Wounds, Raise Dead |
@@ -72,7 +72,11 @@ Starting at 17th level, when you would normally roll one or more dice to restore
 > 
 > 
 > #### Channel Divinity: Purification
-> Starting at 2nd level, you can use your Channel Divinity with an action to remove one condition from all creatures within 10 feet of you, including yourself. You must choose the condition when you use this ability, and it must be from the following list: poisoned, blinded, paralyzed, or frightened.
+> Starting at 2nd level, you can use your Channel Divinity to purge toxins. 
+>
+> Using an action, you can grant resistance to poison and necrotic damage to a creature you are touching for the next ten minutes. If the creature is currently afflicted with the Poisoned condition, it is removed.
+>
+> If you use this feature on an object, any poisons on or within the object are neutralized.
 > 
 > 
 > #### Qi Weapon

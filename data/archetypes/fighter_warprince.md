@@ -22,7 +22,7 @@ Starting at 3rd level, your unarmed attacks can use Dexterity instead of Strengt
 At 3rd level, your extensive training allows you to take a bonus action on each of your turns in combat. This action can be used to take the **Shove**, **Grapple**, and **Unarmed Strike** actions. 
 
 
-#### Reactive Evasion
+#### Evasive Counter
 Starting at 7th level, when an enemy makes a melee weapon attack against you, you can expend your reaction to take the **Dodge** action.
 
 

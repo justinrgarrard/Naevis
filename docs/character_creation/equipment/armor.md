@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Armor
-parent: Items
-grand_parent: Equipment
+parent: Equipment
+grand_parent: Character Creation
 ---
 
 # Armor

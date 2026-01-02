@@ -29,6 +29,8 @@ You did not come to the City of your own free will. You were driven here, perhap
 >
 > *Detect Magic, Disguise Self, Mage Armor, Magic Missile, Sleep, Thunderwave*
 
+---
+
 #### (Optional) Trait Tables
 
 ##### Personality Traits

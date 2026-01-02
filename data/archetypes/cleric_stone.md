@@ -26,7 +26,7 @@ _Warrior monks that seek enlightenment through adversity. The Stone Legionnaires
 When you choose this domain at 1st level, you gain proficiency with heavy armor.
 
 
-#### One with the Sword
+#### Stone Sword
 At 1st level, any non-magical weapon you wield counts as magical while you wield it, gaining a +1 to attack and damage rolls.
 
 

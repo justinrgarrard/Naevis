@@ -10,4 +10,4 @@ nav_exclude: true
 
 A sleek sword forged from a pale silvery metal.
 
-This weapon has the *Finesse* property. It counts as a magical weapon for the purposes of bypassing damage resistance when attuned.
+This weapon has the *Finesse* property. When attuned, it counts as a magical weapon for the purposes of damage resistance.

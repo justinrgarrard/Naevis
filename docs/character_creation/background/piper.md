@@ -26,6 +26,8 @@ You came to the City to broker information. You are a member of the Piper's Guil
 >
 > *Charm Person, Comprehend Languages, Detect Magic, Disguise Self, Silent Image, Thunderwave*
 
+---
+
 #### (Optional) Trait Tables
 
 ##### Personality Traits

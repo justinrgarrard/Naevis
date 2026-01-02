@@ -26,6 +26,8 @@ You came to the City out of curiosity. You are a wanderer, perhaps a knight erra
 >
 > *Burning Hands, Comprehend Languages, Detect Magic, Silent Image, Shield, Sleep*
 
+---
+
 #### (Optional) Trait Tables
 
 ##### Personality Traits

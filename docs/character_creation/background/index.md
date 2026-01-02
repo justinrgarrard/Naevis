@@ -9,9 +9,9 @@ nav_order: 3
 
 # Background
 
-#### Adventuring Motivation
+<!-- #### Adventuring Motivation
 
-A **Background** describes an adventurer's motivation for coming to the Canvaslands, as well as their non-class abilities.
+A **Background** describes an adventurer's motivation for coming to the Canvaslands, as well as their non-class abilities. -->
 
 | Background                             | Suggested Motivation                                                            |
 | :------------------------------------- | :------------------------------------------------------------------------------ |
@@ -24,8 +24,8 @@ A **Background** describes an adventurer's motivation for coming to the Canvasla
 | **[Truthseeker](truthseeker)**         | To publish the authoritative book on City Dwellers.                             |
 | **[Warlord](warlord)**                 | To test yourself against the City's greatest dangers.                           |
 
-{: .note}
+<!-- {: .note}
 > **Professions and Backgrounds**
 >
 > An adventurer's profession is not necessarily dictated by their background. A mercenary, for example, might be a Warlord, a Treasure Hunter, or an Exile depending on what path their life has taken.
-
+ -->

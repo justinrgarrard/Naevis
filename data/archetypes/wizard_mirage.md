@@ -24,7 +24,7 @@ At 6th level, you learn to work minor magic discreetly. You can cast cantrips wi
 
 
 #### Lingering Glamour
-Beginning at 10th level, you can "tie off" a spell from the Illusion or Enchantment schools. When you do so, the spell no longer requires your concentration and lasts for the maximum of its duration, until it is dispelled, or until you use this feature again.
+Beginning at 10th level, you can use an action to "tie off" a spell from the Illusion or Enchantment schools. When you do so, the spell no longer requires your concentration and lasts for the maximum of its duration, until it is dispelled, or until you use this feature again.
 
 You can use this feature a number of times equal to your Intelligence modifier, after which you must take a long rest before doing so again.
 

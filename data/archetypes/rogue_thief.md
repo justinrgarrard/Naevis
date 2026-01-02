@@ -43,8 +43,6 @@ When you reach 17th level, you have become adept at laying ambushes and quickly 
 > 
 > #### Faster Hands
 > Starting at 3rd level, you can use the bonus action granted by your Cunning Action to take the **Use an Object** or **Shove** actions.
->
-> When you shove a creature, you don't provoke opportunity attacks from it for the rest of the turn, whether you succeed or not.
 > 
 > 
 > #### Trade Secrets: Thievery
@@ -56,7 +54,7 @@ When you reach 17th level, you have become adept at laying ambushes and quickly 
 > 
 > * **Wall Running**: You gain the ability to move along vertical surfaces on your turn without falling during the move.
 >
-> * **Potion Expertise**: You can use your bonus action to drink a potion.
+> * **Off-Balance**: When you shove a creature, you don't provoke opportunity attacks from it for the rest of the turn, whether you succeed or not.
 > 
 > * **Throat Strike**: When you deal damage with a melee sneak attack, the target gains the Silenced condition until the end of their next turn.
 >

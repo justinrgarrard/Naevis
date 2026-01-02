@@ -13,13 +13,14 @@ has_toc: false
 Naevis is a low fantasy setting for [Dungeons and Dragons 5th Edition](https://dnd.wizards.com/start-playing-dnd). Players take on the role of adventurers exploring an otherworldly ruin, one filled with underground civilizations, dark gods, and sentient swords. 
 
 
-#### Highlights
+<!-- #### Highlights
 
-<!-- * **A World of Steel and Sand** -->
-* **[5E Basic Rules Gameplay](docs/more/DnD_BasicRules_2018.pdf)**
-* **Designed with [OSR Principles](https://en.wikipedia.org/wiki/Old_School_Renaissance)**
-* **Swords and Sorcery Dungeon Crawling**
+* *A World of Steel and Sand*
+* *5E Basic Rules Gameplay*
+* *Designed with OSR Principles* -->
+<!-- * Swords and Sorcery Dungeon Crawling -->
 <!-- * **New Mechanics for Survival, Resting, and Encumbrance** -->
+
 
 #### Made For Fans Of...
 

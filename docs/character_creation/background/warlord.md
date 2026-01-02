@@ -29,6 +29,8 @@ You came to the City to test your abilities against a true challenge. You may be
 >
 > *Burning Hands, Detect Magic, Magic Missile, Mage Armor, Shield, Thunderwave*
 
+---
+
 #### (Optional) Trait Tables
 
 ##### Personality Traits

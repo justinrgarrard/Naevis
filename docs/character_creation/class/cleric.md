@@ -8,30 +8,25 @@ nav_order: 1
 
 # Cleric
 
-Clerics, sometime also called **cultivators**, are initiates into one of the many sects scattered across Naevis.
+> ##### Qi
+> Clerics (sometimes called *cultivators*) draw their power from [lifeforce](../../../data/archetypes/cleric_life). Their magic comes from within and grows stronger with regular training. [Talismans](../../../data/items/holy_symbol) are used to aid in the expression of that energy.
+>
+> ##### Sects
+> Clerics acquire their powers from initiation rites conducted by sects. A sect may be a priesthood, an order of knights, an association of martial artists, or something altogether different. Regardless of form, all sects closely guard their rites from outsiders. This stance puts them at odds with [wizards](wizard).
 
-##### Qi
-> Most clerics draw their power from [Lifeforce](../../../data/archetypes/cleric_life), alternatively known as qi or divine grace.  Their magic comes from an internal flow of energy and grows stronger with regular meditation. [Talismans](../../../data/items/holy_symbol) can be used to aid in the expression of that energy.
-
-##### Sects
-> Spirituality and religion in Naevis is organized across countless institutions, each with their own particular beliefs and rituals. These institutions are collectively referred to as sects.  
-<!-- > As the name suggests, cults guard their knowledge jealously, only offering guidance to full-fledged initiates who are themselves sworn to secrecy. This stance often puts them at odds with [Wizards](wizard) whose avarice for knowledge is well-known. -->
-
-##### Sacred Languages
-> The secret texts of a sect are written in an [Exotic Language](../../adventuring/mechanics/languages#words-of-power) to keep them safe from prying eyes. These languages hold their own power, and are intimately tied to a sect's origins.
 
 ---
 
 #### Class Description
 
 {: .note}
-> **Hit Points**
+> ##### Hit Points
 > 
 > * Hit Dice: 1d8 per cleric level
 > * Hit Points at 1st Level: 8 + your Constitution modifier
 > * Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 > 
-> **Proficiencies**
+> ##### Proficiencies
 > 
 > * Armor: Light armor, medium armor, shields
 > * Weapons: All simple weapons
@@ -39,7 +34,7 @@ Clerics, sometime also called **cultivators**, are initiates into one of the man
 > * Saving Throws: Wisdom, Charisma
 > * Skills: Choose two from History, Insight, Medicine, Persuasion, and Religion
 >
-> **Equipment**
+> ##### Equipment
 >
 > * _Cleric's Pack (38 lb.)_ or 100 gp.
 > 
@@ -57,15 +52,12 @@ Clerics, sometime also called **cultivators**, are initiates into one of the man
 > | ...Spare Gold                                | -                   | 14 gp |
 
 #### Spellcasting
-
 As a conduit for divine power, you can cast cleric spells.
 
 #### Cantrips
-
 At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
 
 #### Spell Slots
-
 The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
@@ -87,27 +79,32 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
 {: .note}
-> **Ritual Casting**
+> ##### Ritual Casting
 >
 > You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 >
-> **Spellcasting Focus**
+> ##### Spellcasting Focus
 >
 > You can use a holy symbol as a spellcasting focus for your cleric spells.
 
 
 #### [Divine Domain](../../more/archetypes/index)
-
 At 1st level, you choose a domain that corresponds to your cult. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
-#### Domain Spells
+{:.archetype-feature}
+> ##### Bonus Proficiency
+> When you choose this domain at 1st level, you gain proficiency with heavy armor.
 
+{:.archetype-feature}
+> ##### Disciple of Life
+> Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
+
+#### Domain Spells
 Each domain has a list of spells-its domain spells that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
 If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
 #### Channel Divinity
-
 At 2nd level, you gain the ability to channel divine energy directly from your cult's power source, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
 
 When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
@@ -117,26 +114,40 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
 
 #### Channel Divinity: Turn Undead
-
 As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action. 
 
-#### Ability Score Improvement
+{:.archetype-feature}
+> ##### Channel Divinity: Preserve Life
+> Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.
+> 
+> As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.
 
+#### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 #### Destroy Undead
-
 Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Cleric table above.
 
-#### Divine Intervention
+{:.archetype-feature}
+> ##### Blessed Healer
+> Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level.
 
+{:.archetype-feature}
+> ##### Divine Strike
+> At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+
+#### Divine Intervention
 Beginning at 10th level, you can draw heavily on your power to work powerful miracles when your need is great. Rather than cast a spell, you channel large quantities of energy and allow your intuition to shape it in a phenomenon referred to as "intervention".
 
 Performing an intervention requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, the intervention succeeds. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If an intervention takes place, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
+
+{:.archetype-feature}
+> ##### Supreme Healing
+> Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
 
 ---
 

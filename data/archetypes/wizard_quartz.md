@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Wizard: Quartz Mage
 
-_Treasure hunters with a knack for divination. The so-called "School of Quartz" originated as a set of procedures to quickly discern the presence of magic on visiting dignitaries. It saw widespread adoption among adventurers, for whom identifying dangerous (or valuable) magical items is an immediate concern._
+_Treasure hunters with a knack for divination. The so-called "School of Quartz" originated as a set of procedures to quickly discern the presence of magic on visiting dignitaries. It saw widespread adoption among adventurers, for whom identifying dangerous (or valuable) magical items was an immediate concern._
 
 
 #### Scholarship

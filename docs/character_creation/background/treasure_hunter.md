@@ -29,6 +29,8 @@ You came to the City in search of fortune and glory. You may be a sellsword, a t
 >
 > *Burning Hands, Comprehend Languages, Detect Magic, Identify, Shield, Sleep*
 
+---
+
 #### (Optional) Trait Tables
 
 ##### Personality Traits

@@ -6,17 +6,12 @@ grand_parent: Character Creation
 nav_order: 2
 ---
 
-# Fighters
+# Fighter
 
-Fighters are expert combatants far beyond the typical town guard or rank-and-file soldier.
-
-##### Martial Arts
-> Skill at arms is the bare minimum qualification. Intelligent use of maneuvers, both [offensive](../../more/review/maneuvers_offense) and [defensive](../../more/review/maneuvers_defense), is crucial. Fighters also have a preferred [Fighting Style](#fighting-style), and eventually adopt a [martial arts tradition](../../more/archetypes/index).
-
-##### Unyielding Strength
-> Where [cultivators](cleric) split their attention between magic and warcraft, fighters train exclusively in the latter. They are hardier, better equipped, and more specialized in the arts of battle. Their natural talents ([Second Wind](#second-wind) and [Action Surge](#action-surge)) recover more quickly than spellcraft.
-
-##### Legacy
+> ##### Martial Arts
+> A fighter lives and dies by their martial arts. Intelligent use of maneuvers, both [offensive](../../more/review/maneuvers_offense) and [defensive](../../more/review/maneuvers_defense), is crucial. Those who advance beyond the fundamentals develop a [wider repertoire](../../more/archetypes/index) of techniques not available to other adventurers.
+>
+> ##### Reputation
 > A warrior's reputation takes on a force of its own. Fighters who make a name for themselves will find that it carries weight. Petty bandits may cower in the face of a title-bearing fighter, while those seeking to make their own legend may come bearing challenge.
 
 ---
@@ -24,13 +19,13 @@ Fighters are expert combatants far beyond the typical town guard or rank-and-fil
 #### Class Description
 
 {: .note}
-> **Hit Points**
+> ##### Hit Points
 >
 > * Hit Dice: 1d10 per fighter level
 > * Hit Points at 1st Level: 10 + your Constitution modifier
 > * Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 >
-> **Proficiencies**
+> ##### Proficiencies
 >
 > * Armor: All armor, shields
 > * Weapons: Simple weapons, martial weapons
@@ -38,7 +33,7 @@ Fighters are expert combatants far beyond the typical town guard or rank-and-fil
 > * Saving Throws: Strength, Constitution
 > * Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 >
-> **Equipment**
+> ##### Equipment
 >
 > * _Fighter's Pack (52 lb.)_ or 100 gp.
 > 
@@ -61,7 +56,6 @@ Fighters are expert combatants far beyond the typical town guard or rank-and-fil
 > | ...Spare Gold                                  | -                   | 2 gp  |
 
 #### Fighting Style
-
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
 
 > ***Archery***. You gain a +2 bonus to attack rolls you make with ranged weapons.
@@ -77,36 +71,53 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 > ***Two-Weapon Fighting***. When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 #### Second Wind
-
 You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
 #### Action Surge
-
 Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
 
 #### [Martial Archetype](../../more/archetypes/index)
-
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
-#### Ability Score Improvement
+{:.archetype-feature}
+> ##### Improved Critical
+> Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20.
 
+#### Ability Score Improvement
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 #### Extra Attack
-
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
-#### Indomitable
+{:.archetype-feature}
+> ##### Remarkable Athlete
+> Starting at 7th level, you can add half your proficiency bonus (rounded up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
+>
+> In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
 
+#### Indomitable
 Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
+
+{:.archetype-feature}
+> ##### Additional Fighting Style
+> At 10th level, you can choose a second option from the Fighting Style class feature.
+
+{:.archetype-feature}
+> ##### Superior Critical
+> Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20.
+
+{:.archetype-feature}
+> ##### Survivor
+> At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
+
 
 ---
 

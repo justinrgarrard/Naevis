@@ -469,7 +469,7 @@ const WITCH = {
   title: "witch",
   tools: ["wand", "spellbook", "scrolls"],
   weapons: ["wizard"],
-  writeup: "You are a Witch, an enchanter skilled with magic items.",
+  writeup: "You are a Witch, an magic-user skilled with enchanted items.",
   races: ["human", "lightfoot halfling"],
   inv_worn: [ITEMS.dagger, ITEMS.volt_staff, ITEMS.backpack, ITEMS.pouch],
   inv_pouch: [],
@@ -640,7 +640,7 @@ const STOUT_HALFLING = {
   subrace: "stout",
   tools: [],
   weapons: [],
-  writeup: "You are a halfling born to a tribe of hunters.",
+  writeup: "You are a tribal halfling born to a nomadic group.",
   mv: 25,
 };
 
@@ -658,7 +658,7 @@ const LIGHTFOOT_HALFLING = {
   subrace: "lightfoot",
   tools: [],
   weapons: [],
-  writeup: "You are a halfling born to a tribe of merchants.",
+  writeup: "You are a mercantile halfling born to a trading caravan.",
   mv: 25,
 };
 
@@ -1269,12 +1269,12 @@ function generateHighConcept(
 ) {
   return `
         <tr>
-            <td><b>Class</b></td>
-            <td>${character_class.class}</td>
-        </tr>
-        <tr>
             <td><b>Race</b></td>
             <td>${character_race.subrace} ${character_race.race}</td>
+        </tr>
+        <tr>
+            <td><b>Class</b></td>
+            <td>${character_class.class}</td>
         </tr>
         <tr>
             <td><b>Background</b></td>

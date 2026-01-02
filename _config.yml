@@ -30,6 +30,9 @@ callouts:
   archetypes:
     title: Archetypes
     color: purple
+  archetype-feature:
+    title: Archetype Feature
+    color: green
   feat:
     title: Feat
     color: purple

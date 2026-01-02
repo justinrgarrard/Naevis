@@ -8,29 +8,24 @@ nav_order: 4
 
 # Wizard
 
-Wizards are scholars whose study of natural forces allows them to work spellcraft. 
-
-##### Ley Lines
-> Navean mages draw energy off of vast subterranean energy currents called ley lines. Using a [wand](../../../data/items/arcane_focus), they pull slivers of power from these currents and shape them into formations, called spells. More advanced wizards can shape larger quantities of power into increasingly complex workings.
-
-##### Spellbooks
-> A practitioner's first spellbook is influenced by their background. [Warlords](../background/warlord), for example, begin with a spellbook filled with combat magic, while a [Piper's](../background/piper) first spellbook contains illusions and charms. All spellbooks grant wizards the ability to perform [Ritual Magic](#ritual-casting) without preparing ritual spells in advance.
-
-##### Specializations
-> Journeymen come into their own when they choose a [specialization](../../more/archetypes/index). Where spells can be shared between wizards, specializations require uncommon knowledge and dedicated practice in a niche field. [Battle Magic](../../../data/archetypes/wizard_evocation) remains the most common among adventurers.
+> ##### Ley Lines
+> Wizards have no innate power of their own, instead channeling external forces to fuel their magic. Using a [wand](../../../data/items/arcane_focus), they draw off splinters of energy from ley lines beneath the earth and shape them into spells.
+>
+> ##### Traditions
+> A practitioner's initial selection of spells is determined by their [background](../background/index). Journeyman eventually come into their own when they choose a [specialization](../../more/archetypes/index).
 
 ---
 
 #### Class Description
 
 {: .note}
-> **Hit Points**
+> ##### Hit Points
 > 
 > * Hit Dice: 1d6 per wizard level
 > * Hit Points at 1st Level: 6 + your Constitution modifier
 > * Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per wizard level after 1st
 > 
-> **Proficiencies**
+> ##### Proficiencies
 > 
 > * Armor: None
 > * Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
@@ -38,7 +33,7 @@ Wizards are scholars whose study of natural forces allows them to work spellcraf
 > * Saving Throws: Intelligence, Wisdom
 > * Skills: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 >
-> **Equipment**
+> ##### Equipment
 >
 > * _Wizard's Pack (23 lb.)_ or 100 gp.
 > 
@@ -56,16 +51,13 @@ Wizards are scholars whose study of natural forces allows them to work spellcraf
 > | ...Spare Gold                                    | -                  | 2 gp  |
 
 #### Spellcasting
-
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
 
 #### Cantrips
-
 At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
 
 #### Spellbook
-
-At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
+At 1st level, you have a spellbook containing six 1st-level wizard spells determined by your [background](../background/index). Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
 
 The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.
 
@@ -83,7 +75,6 @@ The spells that you add to your spellbook as you gain levels reflect the arcane 
 > **The Book's Appearance.** Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
 
 #### Preparing and Casting Spells
-
 The Wizard table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
@@ -97,7 +88,6 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 
 
 #### Spellcasting Ability
-
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
 **Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
@@ -105,41 +95,58 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
 
 {: .note}
-> ### Ritual Casting
+> ##### Ritual Casting
 >
 >You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 >
-> ### Spellcasting Focus
+> ##### Spellcasting Focus
 >
 > You can use an arcane focus as a spellcasting focus for your wizard spells.
 >
-> ### Learning Spells of 1st Level and Higher
+> ##### Learning Spells of 1st Level and Higher
 >
 > Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook.
 
 #### Arcane Recovery
-
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 
 For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
 
 #### [Arcane Tradition](../../more/archetypes/index)
-
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of the following schools. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
-#### Ability Score Improvement
+{:.archetype-feature}
+> ##### Evocation Savant
+> Beginning when you select this school at 2nd level, the gold and time you must spend to copy an Evocation spell into your spellbook is halved.
 
+{:.archetype-feature}
+> ##### Sculpt Spells
+> Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
+
+#### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-#### Spell Mastery
+{:.archetype-feature}
+> ##### Potent Cantrip
+> Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
 
+{:.archetype-feature}
+> ##### Empowered Evocation
+> Beginning at 10th level, you can add your Intelligence modifier (minimum of +1) to one damage roll of any wizard evocation spell that you cast.
+
+{:.archetype-feature}
+> ##### Overchannel
+> Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell.
+>
+> The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.
+
+#### Spell Mastery
 At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
 #### Signature Spells
-
 When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
 
 If you want to cast either spell at a higher level, you must expend a spell slot as normal.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: climber's kit
+title: climbers kit
 nav_exclude: true
 ---
 
