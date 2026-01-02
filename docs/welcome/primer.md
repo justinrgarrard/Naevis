@@ -10,7 +10,7 @@ parent: Welcome
 {: .note}
 > ##### The Big Idea
 >
-> * *Level 1 - 12*
+> * *Levels 1 - 12*
 > * *Four Races: Elf, Dwarf, Halfling, Human*
 > * *Four Classes: Fighter, Cleric, Rogue, Wizard*
 
@@ -40,18 +40,18 @@ parent: Welcome
 > 
 > ##### The Nameless Desert
 >
-> A [vast arid desert](../more/the_world/nameless_desert) prone to sandstorms and drought. Giant scorpions comb the sands for any traveler foolish enough to walk the wastes.
+> A [vast arid desert](../more/the_world/nameless_desert) prone to sandstorms and drought. Giant scorpions comb the sands for any traveler foolish enough to walk the wastes alone.
 
 
 #### People
 
 > ##### Adventurers
 > 
-> The greedy, the desperate, and the hopeful. Persons of talent that have left the comforts of civilization to plumb the City's depths. 
+> The greedy, the desperate, and the hopeful. Individuals of talent that have left the civilization's comforts to plumb the City's depths. 
 >
 > ##### Embassies
 >
-> Ambassadors of the Elves and Dwarves. Their thousand-year war against one another is continued in the Canvaslands through espionage and subtle power plays. 
+> Ambassadors of the Elven Empire and the Dwarven City States. Their thousand-year war is continued in the Canvaslands through espionage and subtle power plays. 
 >
 > ##### City Dwellers
 >
@@ -62,8 +62,7 @@ parent: Welcome
 
 > | Language        | Description                                                     |
 > | :-------------- | :-------------------------------------------------------------- |
-> | **Common**      | The human language, widely used for trade and diplomacy.        |
+> | **Common**      | The language of trade and diplomacy.                            |
 > | **Undercommon** | The language of orcs, kobolds, and other City Dwellers.         |
 > | **Infernal**    | The language of ancient tomes and strange magics.               |
-> | **Sylvan**      | The language of beasts and fey.                                 |
-> | **Abyssal**     | The language of the dead and damned.                            |
+> | **Sylvan**      | The language of beasts and nature spirits.                      |

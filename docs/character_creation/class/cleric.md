@@ -12,7 +12,7 @@ nav_order: 1
 > Clerics (sometimes called *cultivators*) draw their power from [lifeforce](../../../data/archetypes/cleric_life). Their magic comes from within and grows stronger with regular training. [Talismans](../../../data/items/holy_symbol) are used to aid in the expression of that energy.
 >
 > ##### Sects
-> Clerics acquire their powers from initiation rites conducted by sects. A sect may be a priesthood, an order of knights, an association of martial artists, or something altogether different. Regardless of form, all sects closely guard their rites from outsiders. This stance puts them at odds with [wizards](wizard).
+> Clerics acquire their powers from practices passed down by sects. A sect may be a priesthood, an order of knights, an association of martial artists, or something altogether different. Regardless of form, all sects closely guard their rites from outsiders. 
 
 
 ---

@@ -1,10 +1,7 @@
 ---
 layout: default
 title: Languages
-parent: Mechanics
-grand_parent: Adventuring
-has_children: false
-has_toc: false
+parent: Adventuring
 ---
 
 # Languages
@@ -14,7 +11,7 @@ has_toc: false
 {: .language}
 > ##### Common
 > 
-> The human tongue, is widely used as the language of trade and diplomacy. 
+> The human tongue, widely used as the language of trade and diplomacy. 
 
 {: .language}
 > ##### Dwarven
@@ -56,22 +53,3 @@ has_toc: false
 > 
 > The secret language of beasts. Proficiency allows the user to speak with animals and nature spirits.
 
-<!-- {: .exotic-language}
-> ##### Abyssal
-> 
-> The secret language of hell. Proficiency allows the user to commune with ghosts and other intelligent undead.  -->
-
-<!-- {: .exotic-language}
-> ##### Deep Speech
-> 
-> The secret language of the mind. Proficiency allows the user to speak into the thoughts of others, so long as they are within 120 feet. -->
-
-<!-- {: .exotic-language}
-> ##### Giant
-> 
-> The secret language of stone. Proficiency allows the user to petition the ground below for answers about the past. You can make a DC 15 (Charisma) Persuasion check to ask about events that have transpired in your location.
-
-{: .exotic-language}
-> ##### Primordial
-> 
-> The secret language of the sky. Proficiency allows the user to petition the winds for answers about the present. You can make a DC 15 (Charisma) Persuasion check to ask about events that are currently happening nearby. -->

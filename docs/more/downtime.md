@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Downtime
-parent: Adventuring
-has_children: true
+parent: More
+has_children: false
 has_toc: false
 ---
 
