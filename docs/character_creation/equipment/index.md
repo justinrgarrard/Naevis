@@ -19,4 +19,4 @@ nav_order: 4
 {: .note}
 > ##### Weight and Gold Changes
 >
-> Some item values have been adjusted from the *Basic Rules*.
+> Some item values have been adjusted from the [System Reference Document](../../more/SRD_CC_v5.1.pdf).

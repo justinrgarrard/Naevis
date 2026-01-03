@@ -14,7 +14,7 @@ has_toc: false
 > Naevis is designed to work with the archetypes on this page. Players that are interested in other archetypes should work with their GM on a case-by-case basis.
 
 
-| Class       | Basic Rules Version                                    | Optional Variant                                               |
+| Class       | SRD Version                                            | Optional Variant                                               |
 | :---------- | :----------------------------------------------------- | :------------------------------------------------------------- |
 | **Cleric**  | [Life](../../../data/archetypes/cleric_life)           | [Variant](../../../data/archetypes/cleric_life#alternate)      |
 | **Fighter** | [Champion](../../../data/archetypes/fighter_champion)  | [Variant](../../../data/archetypes/fighter_champion#alternate) |

@@ -113,7 +113,7 @@ A martial cleric's spells can be thought of as "techniques", as one might see in
 The *Bonus Proficiency* offers a decision point for what kind of warrior this cleric is. 
 
 #### Channel Divinity
-*Channel Divinity* can take many forms, but ideally, it should be an ability with precedence in existing sourcebooks. Spells from outside the Basic Rules are an ideal candidate.
+*Channel Divinity* can take many forms, but ideally, it should be an ability with precedence in existing sourcebooks. 
 
 #### Qi Weapon
 Martial clerics gradually fall behind fighters and rogues in weapon use. The former gain *Extra Attack* at level 5, while the latter sees incremental improvements in *Sneak Attack*. *Qi Weapon's* modest damage bonus helps to offset that gap without eclipsing other classes.
@@ -144,7 +144,7 @@ Spellcaster clerics are armored casters. They have a narrower selection of magic
 Clerics with this disposition favor spells over weapons. Given that *Sacred Flame* is the only offensive cantrip in the Cleric list, it's a good idea to borrow one from the wizard spell list.
 
 #### Channel Divinity
-*Channel Divinity* can take many forms, but ideally, it should be an ability with precedence in existing sourcebooks. Spells from outside the Basic Rules are an ideal candidate.
+*Channel Divinity* can take many forms, but ideally, it should be an ability with precedence in existing sourcebooks. 
 
 #### Potent Spellcasting
 *Potent Spellcasting* is a small but noticable boost to cantrip damage. It is a late addition however, and should not be the linchpin of any archetype.

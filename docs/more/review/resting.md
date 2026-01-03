@@ -10,7 +10,7 @@ nav_order: 1
 
 {: .note}
 > ##### Setting Rules
-> The Naevis setting has a few important differences from *The Basic Rules*.
+> The Naevis setting has a few important differences from the [System Reference Document](../SRD_CC_v5.1.pdf).
 >
 > * No long resting during an adventure.
 > * Short rests consume one [ration](../../../data/items/rations).

@@ -92,6 +92,16 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 At 1st level, you choose a domain that corresponds to your cult. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 {:.archetype-feature}
+> #### Life Domain Spells
+> | Cleric Level |                               Spells |
+> | :----------- | -----------------------------------: |
+> | 1st          |                   Bless, Cure Wounds |
+> | 3rd          | Lesser Restoration, Spiritual Weapon |
+> | 5th          |             Beacon of Hope, Revivify |
+> | 7th          |        Death Ward, Guardian of Faith |
+> | 9th          |         Mass Cure Wounds, Raise Dead |
+
+{:.archetype-feature}
 > ##### Bonus Proficiency
 > When you choose this domain at 1st level, you gain proficiency with heavy armor.
 

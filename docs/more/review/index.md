@@ -8,4 +8,4 @@ has_toc: true
 
 # Review
 
-Pages in this section review information from the _[Basic Rules](../DnD_BasicRules_2018.pdf)_.
+Pages in this section review information from the [System Reference Document](../SRD_CC_v5.1.pdf).
