@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Nameless Desert
-parent: The World
-grand_parent: More
+parent: The Lands Above
+grand_parent: World
 ---
 
 # The Nameless Desert

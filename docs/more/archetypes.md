@@ -14,12 +14,12 @@ has_toc: false
 > Naevis is designed to work with the archetypes on this page. Players that are interested in other archetypes should work with their GM on a case-by-case basis.
 
 
-| Class       | SRD Version                                            | Optional Variant                                               |
-| :---------- | :----------------------------------------------------- | :------------------------------------------------------------- |
-| **Cleric**  | [Life](../../../data/archetypes/cleric_life)           | [Variant](../../../data/archetypes/cleric_life#alternate)      |
-| **Fighter** | [Champion](../../../data/archetypes/fighter_champion)  | [Variant](../../../data/archetypes/fighter_champion#alternate) |
-| **Rogue**   | [Thief](../../../data/archetypes/rogue_thief)          | [Variant](../../../data/archetypes/rogue_thief#alternate)      |
-| **Wizard**  | [Evocation](../../../data/archetypes/wizard_evocation) | [Variant](../../../data/archetypes/wizard_evocation#alternate) |
+| Class       | SRD Version                                            | 
+| :---------- | :----------------------------------------------------- | 
+| **Cleric**  | [Life](../../../data/archetypes/cleric_life)           | 
+| **Fighter** | [Champion](../../../data/archetypes/fighter_champion)  | 
+| **Rogue**   | [Thief](../../../data/archetypes/rogue_thief)          | 
+| **Wizard**  | [Evocation](../../../data/archetypes/wizard_evocation) | 
 
 ## Setting Archetypes
 

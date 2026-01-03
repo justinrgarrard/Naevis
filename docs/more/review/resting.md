@@ -3,7 +3,6 @@ layout: default
 title: Resting
 parent: Review
 grand_parent: More
-nav_order: 1
 ---
 
 # Resting

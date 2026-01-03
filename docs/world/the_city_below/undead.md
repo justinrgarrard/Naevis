@@ -2,7 +2,7 @@
 layout: default
 title: Undead
 parent: The City Below
-grand_parent: More
+grand_parent: World
 nav_order: 0
 ---
 

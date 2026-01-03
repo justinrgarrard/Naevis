@@ -2,7 +2,7 @@
 layout: default
 title: Gnomes
 parent: The City Below
-grand_parent: More
+grand_parent: World
 nav_order: 0
 ---
 

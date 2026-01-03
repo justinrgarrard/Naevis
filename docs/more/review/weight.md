@@ -3,7 +3,6 @@ layout: default
 title: Weight
 parent: Review
 grand_parent: More
-nav_order: 1
 ---
 
 # Weight
@@ -21,9 +20,9 @@ nav_order: 1
 > | 16       |         80 |                160 |     240 |
 > | 18       |         90 |                180 |     270 |
 >
-> * **Encumbered**: Movement speed is reduced by 10 feet.
-> * **Heavily Encumbered**: Movement speed is reduced by 20 feet, and rolls that depend on Strength, Dexterity, or Constitution are made at disadvantage.
-> * **Maximum**: You are unable to physically lift more than this amount.
+> * Encumbered: Movement speed is reduced by 10 feet.
+> * Heavily Encumbered: Movement speed is reduced by 20 feet, and rolls that depend on Strength, Dexterity, or Constitution are made at disadvantage.
+> * Maximum: You are unable to physically lift more than this amount.
 
 > ### Lifting and Carrying
 > Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.

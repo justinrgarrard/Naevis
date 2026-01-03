@@ -1,9 +1,9 @@
 ---
 layout: default
-title: The World
-parent: More
+title: The Lands Above
+parent: World
 has_children: true
 has_toc: true
 ---
 
-# The World
+# The Lands Above

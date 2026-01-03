@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Canvaslands
-parent: The World
-grand_parent: More
+parent: The Lands Above
+grand_parent: World
 has_children: true
 has_toc: false
 ---
