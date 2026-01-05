@@ -16,12 +16,12 @@ The standard array consists of six values: 15, 14, 13, 12, 10, 8. These are assi
 {: .note}
 > ##### Example: High Elf Wizard
 > 
-> | Ability                                          | Value | Race Bonus     | Total |
-> | :----------------------------------------------- | :---- | :------------- | :---- |
-> | [Strength](../adventuring/mechanics/encumbrance) | 10    | +0             | 10    |
-> | Dexterity                                        | 14    | +2             | 16    |
-> | Constitution                                     | 12    | +0             | 12    |
-> | [Intelligence](../adventuring/downtime/alchemy)  | 15    | +1             | 16    |
-> | [Wisdom](../adventuring/strategy/awareness)      | 08    | +0             | 08    |
-> | [Charisma](../adventuring/mechanics/attunement)  | 13    | +0             | 13    |
+> | Ability      | Value | Race Bonus | Total |
+> | :----------- | :---- | :--------- | :---- |
+> | Strength     | 10    | +0         | 10    |
+> | Dexterity    | 14    | +2         | 16    |
+> | Constitution | 12    | +0         | 12    |
+> | Intelligence | 15    | +1         | 16    |
+> | Wisdom       | 08    | +0         | 08    |
+> | Charisma     | 13    | +0         | 13    |
 

@@ -7,6 +7,9 @@ grand_parent: Character Creation
 
 # Armor
 
+{: .language}
+> Adventurers proficient in **Dwarven** get a 20% discount on weapons and armor, to a minimum price of 1 gp.
+
 
 | Name                     | Armor Class (AC)          | Stealth      | Price  | Weight |
 | :----------------------- | :------------------------ | :----------- | :----- | :----- |
@@ -29,8 +32,5 @@ grand_parent: Character Creation
 | Shield                   |                           |              |        |        |
 | ... Shield               | +2                        | —            | 5 gp   | 6 lb.  |
 | ... Shield (Holy Symbol) | +2                        | —            | 15 gp  | 6 lb.  |
-
-{: .language}
-> Adventurers proficient in **Dwarven** get a 20% discount on weapons and armor, to a minimum price of 1 gp.
 
 

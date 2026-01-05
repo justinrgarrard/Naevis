@@ -45,7 +45,7 @@ nav_order: 1
 > | Studded Leather                              | 13 lb.              | 10 gp |
 > | Holy Amulet                                  | 1 lb.               | 10 gp |
 > | Pouch                                        | 1 lb. (2 / 6 lb.)   | 1 gp  |
-> | ...[Potion of Healing](../../character_creation/equipment/alchemics) | 1 lb.               | 25 gp |
+> | ...[Potion of Healing](../../character_creation/equipment/tools#alchemical-tools-25-gp) | 1 lb.               | 25 gp |
 > | ...[Scroll of Bless](../../../data/items/spell_scroll)     | 1 lb.               | 25 gp |
 > | Backpack                                     | 5 lb. (07 / 30 lb.) | 2 gp  |
 > | ...Rations (x3)                              | 6 lb.               | 3 gp  |
@@ -88,11 +88,12 @@ Wisdom is your spellcasting ability for your cleric spells. The power of your sp
 > You can use a holy symbol as a spellcasting focus for your cleric spells.
 
 
-#### [Divine Domain](../../more/archetypes/index)
+#### [Divine Domain](../../more/archetypes)
 At 1st level, you choose a domain that corresponds to your cult. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 {:.archetype-feature}
-> #### Life Domain Spells
+> ##### Life Domain Spells
+> 
 > | Cleric Level |                               Spells |
 > | :----------- | -----------------------------------: |
 > | 1st          |                   Bless, Cure Wounds |

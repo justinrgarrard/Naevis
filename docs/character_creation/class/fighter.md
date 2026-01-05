@@ -9,7 +9,7 @@ nav_order: 2
 # Fighter
 
 > ##### Martial Arts
-> A fighter lives and dies by their martial arts. Intelligent use of maneuvers, both [offensive](../../more/review/maneuvers_offense) and [defensive](../../more/review/maneuvers_defense), is crucial. Those who advance beyond the fundamentals develop a [wider repertoire](../../more/archetypes/index) of techniques not available to other adventurers.
+> A fighter lives and dies by their martial arts. Intelligent use of maneuvers, both [offensive](../../more/review/maneuvers_offense) and [defensive](../../more/review/maneuvers_defense), is crucial. Those who advance beyond the fundamentals develop a [wider repertoire](../../more/archetypes) of techniques not available to other adventurers.
 >
 > ##### Reputation
 > A warrior's reputation takes on a force of its own. Fighters who make a name for themselves will find that it carries weight. Petty bandits may cower in the face of a title-bearing fighter, while those seeking to make their own legend may come bearing challenge.
@@ -45,8 +45,8 @@ nav_order: 2
 > | Studded Leather                                | 13 lb.              | 10 gp |
 > | Pouch                                          | 1 lb. (3 / 6 lb.)   | 1 gp  |
 > | ...Arrows (20)                                 | 1 lb.               | 1 gp  |
-> | ...[Potion of Healing](../../character_creation/equipment/alchemics)   | 1 lb.               | 25 gp |
-> | ...[Potion of Cleansing](../../character_creation/equipment/alchemics) | 1 lb.               | 25 gp |
+> | ...[Potion of Healing](../../character_creation/equipment/tools#alchemical-tools-25-gp)   | 1 lb.               | 25 gp |
+> | ...[Potion of Cleansing](../../character_creation/equipment/tools#alchemical-tools-25-gp) | 1 lb.               | 25 gp |
 > | Backpack                                       | 5 lb. (19 / 30 lb.) | 2 gp  |
 > | ...Rations (x3)                                | 6 lb.               | 3 gp  |
 > | ...Tinderbox                                   | 1 lb.               | 1 gp  |
@@ -80,7 +80,7 @@ Starting at 2nd level, you can push yourself beyond your normal limits for a mom
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
 
-#### [Martial Archetype](../../more/archetypes/index)
+#### [Martial Archetype](../../more/archetypes)
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
 {:.archetype-feature}

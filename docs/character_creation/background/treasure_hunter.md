@@ -12,9 +12,9 @@ You came to the City in search of fortune and glory. You may be a sellsword, a t
 
 **[Skill Proficiency](../../more/review/skills)**: Perception, Insight
 
-**[Language Proficiency](../../adventuring/mechanics/languages)**: Undercommon or Infernal
+**[Language Proficiency](../../adventuring/languages)**: Undercommon or Infernal
 
-**[Tool Proficiency](../../adventuring/downtime/alchemy)**: Thieves' Tools or One Alchemy Tool
+**[Tool Proficiency](../../adventuring/downtime#alchemy)**: Thieves' Tools or One Alchemy Tool
 
 {: .background-feature}
 > **Read the Room**

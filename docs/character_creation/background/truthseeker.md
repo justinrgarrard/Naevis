@@ -12,7 +12,7 @@ You came to the City to understand its mysteries. You may be an archaeologist hu
 
 **[Skill Proficiency](../../more/review/skills)**: Arcana, History
 
-**[Language Proficiency](../../adventuring/mechanics/languages)**: Undercommon and Infernal
+**[Language Proficiency](../../adventuring/languages)**: Undercommon and Infernal
 
 {: .background-feature}
 > **Illuminate**

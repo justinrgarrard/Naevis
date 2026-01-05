@@ -12,7 +12,7 @@ You came to the City at the behest of a greater power. You may be a knight repre
 
 **[Skill Proficiency](../../more/review/skills)**: Persuasion, Deception
 
-**[Language Proficiency](../../adventuring/mechanics/languages)**: Two Racial Languages
+**[Language Proficiency](../../adventuring/languages)**: Two Racial Languages
 
 {: .background-feature}
 > **Herald**

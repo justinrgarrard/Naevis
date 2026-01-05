@@ -12,7 +12,7 @@ You came to the City out of curiosity. You are a wanderer, perhaps a knight erra
 
 **[Skill Proficiency](../../more/review/skills)**: Athletics, Survival
 
-**[Tool Proficiency](../../adventuring/downtime/alchemy)**: Instruments, Herbalist
+**[Tool Proficiency](../../adventuring/downtime#alchemy)**: Instruments, Herbalist
 
 {: .background-feature}
 > **Wary**

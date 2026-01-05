@@ -12,9 +12,9 @@ You came to the City to test your abilities against a true challenge. You may be
 
 **[Skill Proficiency](../../more/review/skills)**: Intimidation, Medicine
 
-**[Language Proficiency](../../adventuring/mechanics/languages)**: Cant or One Racial Language
+**[Language Proficiency](../../adventuring/languages)**: Cant or One Racial Language
 
-**[Tool Proficiency](../../adventuring/downtime/alchemy)**: One Alchemy Tool
+**[Tool Proficiency](../../adventuring/downtime#alchemy)**: One Alchemy Tool
 
 {: .background-feature}
 > **First Blood**

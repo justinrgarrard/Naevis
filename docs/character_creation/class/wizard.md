@@ -12,7 +12,7 @@ nav_order: 4
 > Wizards have no innate power of their own, instead channeling external forces to fuel their magic. Using a [wand](../../../data/items/arcane_focus), they draw off splinters of energy from ley lines beneath the earth and shape them into spells.
 >
 > ##### Traditions
-> A practitioner's initial selection of spells is determined by their [background](../background/index). Journeyman eventually come into their own when they choose a [specialization](../../more/archetypes/index).
+> A practitioner's initial selection of spells is determined by their [background](../background/index). Journeyman eventually come into their own when they choose a [specialization](../../more/archetypes).
 
 ---
 
@@ -113,7 +113,7 @@ You have learned to regain some of your magical energy by studying your spellboo
 For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
 
-#### [Arcane Tradition](../../more/archetypes/index)
+#### [Arcane Tradition](../../more/archetypes)
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of the following schools. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 {:.archetype-feature}

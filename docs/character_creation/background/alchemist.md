@@ -13,7 +13,7 @@ You came to the City to be at the forefront of innovation. You have an interest 
 
 **[Skill Proficiency](../../more/review/skills)**: Nature, Investigation
 
-**[Tool Proficiency](../../adventuring/downtime/alchemy)**: Two Alchemy Tools
+**[Tool Proficiency](../../adventuring/downtime#alchemy)**: Two Alchemy Tools
 
 
 {: .background-feature}

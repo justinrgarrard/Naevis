@@ -7,6 +7,9 @@ grand_parent: Character Creation
 
 # Spellcasting Equipment
 
+{: .language}
+> Adventurers proficient in **Elven** can purchase focuses, scrolls, and spellbooks at a 20% discount.
+
 #### Focuses (10 gp)
 
 | Item                | Weight |
@@ -33,5 +36,4 @@ grand_parent: Character Creation
 | [Glass Ring](../../../data/magic_items/glass_ring)         | -      |
 
 
-{: .language}
-> Adventurers proficient in **Elven** can purchase focuses, scrolls, and spellbooks at a 20% discount.
+

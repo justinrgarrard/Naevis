@@ -7,6 +7,9 @@ grand_parent: Character Creation
 
 # Arms
 
+{: .language}
+> Adventurers proficient in **Dwarven** get a 20% discount on weapons and armor, to a minimum price of 1 gp.
+
 
 #### Cheap Weapons (1 gp)
 
@@ -68,6 +71,4 @@ grand_parent: Character Creation
 | [Mythril Longsword](../../../data/magic_items/mythril_longsword) | 1d8 slashing    | 3 lb.  | Finesse, versatile (1d10), **martial**, **elf**, **rogue**, requires attunement |
 | [Volt Staff](../../../data/magic_items/volt_staff)               | 1d6 bludgeoning | 4 lb.  | Versatile (1d8), **wizard**, requires attunement                                |
 
-{: .language}
-> Adventurers proficient in **Dwarven** get a 20% discount on weapons and armor, to a minimum price of 1 gp.
 

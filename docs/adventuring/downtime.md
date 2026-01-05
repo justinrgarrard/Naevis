@@ -8,7 +8,7 @@ has_toc: false
 
 # Downtime
 
-Downtime takes place between expeditions. It includes a [long rest](review/resting#long-rest) and one activity chosen from the list below.
+Downtime takes place between expeditions. It includes a [long rest](../more/review/resting) and one activity chosen from the list below.
 
 {: .note}
 > ##### Fighter: Conditioning Drills
@@ -38,10 +38,10 @@ Downtime takes place between expeditions. It includes a [long rest](review/resti
 >
 > | Tool                             | Alchemics                                                                                                                             |
 > | :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
-> | Alchemist or Herbalist or Brewer | [Potion of Cleansing](../../../data/alchemics/potion_of_cleansing) and [Potion of Healing](../../../data/alchemics/potion_of_healing) |
-> | Poisoner                         | [Scorpion Venom](../../../data/alchemics/scorpion_venom) and [Sleeping Powder](../../../data/alchemics/sleeping_powder)               |
-> | Tinker or Mason                  | [Firebomb](../../../data/alchemics/firebomb) and [Thunderbomb](../../../data/alchemics/thunderbomb)                                   |
-> | Woodcarver or Smith              | [Sonic Ammo](../../../data/alchemics/sonic_ammo) and [Sparking Ammo](../../../data/alchemics/sparking_ammo)                           |
+> | Alchemist or Herbalist or Brewer | [Potion of Cleansing](../../data/alchemics/potion_of_cleansing) and [Potion of Healing](../../data/alchemics/potion_of_healing) |
+> | Poisoner                         | [Scorpion Venom](../../data/alchemics/scorpion_venom) and [Sleeping Powder](../../data/alchemics/sleeping_powder)               |
+> | Tinker or Mason                  | [Firebomb](../../data/alchemics/firebomb) and [Thunderbomb](../../data/alchemics/thunderbomb)                                   |
+> | Woodcarver or Smith              | [Sonic Ammo](../../data/alchemics/sonic_ammo) and [Sparking Ammo](../../data/alchemics/sparking_ammo)                           |
 >
 > Create an item from the above table.
 

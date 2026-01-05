@@ -28,6 +28,6 @@ Campaigns are longer form games, typically consisting of [10 or more sessions](.
 > A module-like approach might be preferred at some tables. In these campaigns, players spend multiple sessions exploring a single dungeon (typically one [generated in full](https://donjon.bin.sh/d20/dungeon/).) This structure provides the following benefits:
 > 
 > * **Classic Mapmaking**: Players can be responsible for drawing their own maps of larger dungeons.
-> * **Adapting Classic Modules**: Game Masters can reuse well-established dungeons like *Keep on the Borderlands*.
+> * **Adapting Classic Modules**: Game Masters can reuse well-established adventures like *Keep on the Borderlands*.
 > * **Higher Difficulty**: Players face greater difficulties in managing their resources when trade is rare.
 

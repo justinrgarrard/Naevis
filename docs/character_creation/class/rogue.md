@@ -44,7 +44,7 @@ nav_order: 3
 > | Studded Leather                              | 13 lb.              | 10 gp |
 > | Rope, silk (50 feet)                         | 5 lb.               | 10 gp |
 > | Pouch                                        | 1 lb. (2 / 6 lb.)   | 1 gp  |
-> | ...[Potion of Healing](../../character_creation/equipment/alchemics) | 1 lb.               | 25 gp |
+> | ...[Potion of Healing](../../character_creation/equipment/tools#alchemical-tools-25-gp) | 1 lb.               | 25 gp |
 > | ...Thieves' Tools                            | 1 lb.               | 10 gp |
 > | Backpack                                     | 5 lb. (16 / 30 lb.) | 2 gp  |
 > | ...Rations (x3)                              | 6 lb.               | 3 gp  |
@@ -72,7 +72,7 @@ During your rogue training you learned [cant](../../adventuring/mechanics/langua
 #### Cunning Action
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
 
-#### [Roguish Archetype](../../more/archetypes/index)
+#### [Roguish Archetype](../../more/archetypes)
 At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
 {:.archetype-feature}

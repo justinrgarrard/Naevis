@@ -12,7 +12,7 @@ You came to the City to broker information. You are a member of the Piper's Guil
 
 **[Skill Proficiency](../../more/review/skills)**: Sleight of Hand, Performance
 
-**[Tool Proficiency](../../adventuring/downtime/alchemy)**: Instruments, Tinker
+**[Tool Proficiency](../../adventuring/downtime#alchemy)**: Instruments, Tinker
 
 {: .background-feature}
 > **Stage Magic**

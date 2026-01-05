@@ -10,9 +10,7 @@ nav_order: 1
 
 #### Setting the Mood
 
-Dungeons and Dragons 5E can be used to run many different types of games. The _Forgotten Realms_ setting favors High Fantasy, with powerful gods and nigh-immortal wizards shaping every adventure. _Eberron_ provides a Noir/Pulp Action world with Dragonmarked Houses scheming against the backdrop of a world war. _Ravenloft_ leans towards Fantasy Horror by presenting unsettling sights at every turn.
-
-Naevis, for its part, is intended for **Survival Fantasy** games. It has as much in common with the _Oregon Trail_ series as it does with _Skyrim_ or _Diablo_. Sessions should have players thumbing their chin as they weigh their options. 
+Dungeons and Dragons 5E can be used to run many different types of games. The _Forgotten Realms_ setting favors High Fantasy, _Eberron_ provides a Noir/Pulp Action world, and _Ravenloft_ leans towards Fantasy Horror by presenting unsettling sights at every turn. Naevis, for its part, is intended for **Survival Fantasy** games. 
 
 
 {: .note}
