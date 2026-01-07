@@ -57,6 +57,4 @@ Downtime takes place between expeditions. It includes a [long rest](../more/revi
 > 
 > *Requires a level in wizard.* 
 > 
-> Create a spell scroll from a spell in your spellbook.
->
-> If you have the [Evocation Savant](../../data/archetypes/wizard_evocation#evocation-savant) feature, you create two scrolls.
+> Create a 1st level [spell scroll](../../data/magic_items/spell_scroll) of a spell in your spellbook.

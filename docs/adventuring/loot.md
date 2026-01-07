@@ -9,7 +9,7 @@ parent: Adventuring
 {: .mundane-item}
 > **Loot (10 gp)**
 >
-> *Treasure, 5 lb.*
+> *Treasure, 10 lb.*
 >
 > Carefully preserved monster viscera, rocks that glow when exposed to moonlight, damaged armor made of quality materials; this is anything that might be of interest to a curious merchant.
 

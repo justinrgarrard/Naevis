@@ -8,12 +8,7 @@ nav_order: 3
 
 # Halfling
 
-<!-- Halflings live as nomads in winding caravans, carrying trade across all nations. They have an aptitude for luck, bravery, and agility.
-
-{: .language}
-> **Halfling** is the language of [alchemy](../../character_creation/equipment/alchemics). Nearly all recipes are written in the language and use the halfling measurement system. Proficient characters receive a 20% discount when buying alchemics, like potions. -->
-
-#### Lightfoot Halfling
+> The halfling people are beloved by fate, suffering ill-fortune rarely. They make for canny adventurers.
 
 | Feature             | Description                                                                                                                        |
 | :------------------ | :--------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,11 +21,32 @@ nav_order: 3
 | Small               | you are considered small, and have difficulty wielding weapons with the _Heavy_ tag.                                               |
 | Naturally Stealthy  | you can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.                   |
 
-##### A Caravan of Merchants
-> Lightfoot halflings come from merchant tribes. They are polite, canny, and well-liked in most lands.
+
+{: .note}
+>##### Homeland
+>
+> Halflings once lived among humans in villages and shires. They farmed, managed animals, hunted, and lived off the land. When the Elves came, the Halflings fled their homelands while the Humans remained. Now, more than a thousand years later, the Halfling people wander without a home. They live their lives traveling from one land to the next in caravans. 
+>
+> ##### Two Peoples
+>
+> The Halfling race has two distinct ethnic groups in the current era. The Stout tribes are traditionalists who live off the land as expert hunters. In lean seasons, they work as mercenaries. The Lightfoot tribes have a different lifestyle as nomadic merchants. They facilitate the movement of goods between the Dwarves and Elves. 
+>
+> ##### Leadership
+>
+> Halfling tribes are traditionally governed by a chieftain, a shaman, and an elder. In Stout tribes these roles are literal; a chieftain is a strong warrior, a shaman is a cultivator, and an elder is the oldest living member of the tribe. In Lightfoot tribes, the chieftain is an elected mayor, the shaman is an educated wizard, and the elder is the clan accountant.
 
 
-#### Stout Halfling
+<!-- Halflings live as nomads in winding caravans, carrying trade across all nations. They have an aptitude for luck, bravery, and agility.
+
+{: .language}
+> **Halfling** is the language of [alchemy](../../character_creation/equipment/alchemics). Nearly all recipes are written in the language and use the halfling measurement system. Proficient characters receive a 20% discount when buying alchemics, like potions. -->
+
+
+<!-- ##### A Caravan of Merchants
+> Lightfoot halflings come from merchant tribes. They are polite, canny, and well-liked in most lands. -->
+
+
+<!-- #### Stout Halfling
 
 | Feature             | Description                                                                                                                        |
 | :------------------ | :--------------------------------------------------------------------------------------------------------------------------------- |
@@ -46,17 +62,4 @@ nav_order: 3
 ##### A Caravan of Shepherds
 > Stout halflings come from hunting tribes. They live harder lives than their Lightfoot brethren, but have hardier bodies.
 
----
-
-{: .note}
->##### Homeland
->
-> Halflings once lived among humans in villages and shires. They farmed, managed animals, hunted, and lived off the land. When the Elves came, the Halflings fled their homelands while the Humans remained. Now, more than a thousand years later, the Halfling people wander without a home. They live their lives traveling from one land to the next in caravans. 
->
-> ##### Two Peoples
->
-> The Halfling race has two distinct ethnic groups in the current era. The Stout tribes are traditionalists who live off the land as expert hunters. In lean seasons, they work as mercenaries. The Lightfoot tribes have a different lifestyle as nomadic merchants. They facilitate the movement of goods between the Dwarves and Elves. 
->
-> ##### Leadership
->
-> Halfling tribes are traditionally governed by a chieftain, a shaman, and an elder. In Stout tribes these roles are literal; a chieftain is a strong warrior, a shaman is a cultivator, and an elder is the oldest living member of the tribe. In Lightfoot tribes, the chieftain is an elected mayor, the shaman is an educated wizard, and the elder is the clan accountant.
+--- -->

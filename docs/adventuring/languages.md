@@ -16,17 +16,17 @@ parent: Adventuring
 {: .language}
 > ##### Dwarven
 > 
-> The language of industry. Proficient characters receive a **20% discount on weapons and armor**.
+> The language of industry. Proficient characters receive a 20% discount on weapons and armor.
 
 {: .language}
 > ##### Elven 
 > 
-> The language of spellcraft. Proficient characters receive a **20% discount on spellbooks, spellcasting focuses, and scrolls**.
+> The language of spellcraft. Proficient characters receive a 20% discount on spellcasting tools.
 
 {: .language}
 > ##### Halfling
 > 
-> The language of alchemy. Proficient characters receive a **20% discount on alchemics**.
+> The language of alchemy. Proficient characters receive a 20% discount on tools.
 
 
 ---

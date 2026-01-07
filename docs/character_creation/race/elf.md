@@ -8,12 +8,7 @@ nav_order: 1
 
 # Elf
 
-<!-- Navean elves belong to the Elven Empire, a sprawling nation that covers nearly all of the continent. They have an aptitude for weaponry, magic resistance, and agility.
-
-{: .language}
-> **Elven** is the language of enchanting. Proficient characters receive a 20% discount when buying spellbooks, spellcasting focuses, and scrolls. -->
-
-#### High Elf
+> Tradition demands that elven children are trained in sword and spell, both useful skills for any aspiring adventurer.
 
 | Feature        | Description                                                                                                       |
 | :------------- | :---------------------------------------------------------------------------------------------------------------- |
@@ -27,29 +22,6 @@ nav_order: 1
 | Trance         | you require 4 hours of rest instead of 8, and remain conscious throughout                                         |
 | Cantrip        | you know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it. |
 
-##### Nobles of the Empire
-> High elves are raised to embody the Elven ideal, mastering sword, spell, and bow as part of their aristocratic upbringing. 
-
-
-#### Wood Elf
-
-| Feature          | Description                                                                                                                              |
-| :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| Ability Scores   | +2 to Dexterity and +1 to Wisdom                                                                                                         |
-| Speed            | 35 ft. walking speed                                                                                                                     |
-| Languages        | Common, Elven                                                                                                                            |
-| Skills           | Perception                                                                                                                               |
-| Darkvision       | 60 ft.                                                                                                                                   |
-| Weapons          | longswords, shortswords, longbows, and shortbows                                                                                         |
-| Fey Ancestry     | advantage on saves vs. charms, immunity to magic sleep                                                                                   |
-| Trance           | you require 4 hours of rest instead of 8, and remain conscious throughout                                                                |
-| Mask of the Wild | you can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. |
-
-##### Swords of the Empire
-> Wood elves are born in provincial lands, far from the political machinations of the emperor's courts. They are charged with securing the empire's borders and managing its daily affairs.
-
-
----
 
 {: .note}
 > ##### Homeland
@@ -65,3 +37,31 @@ nav_order: 1
 > Low-borne Elves are called Wood Elves. Though they may belong to a lower caste, within the Empire they are second only to High Elven nobility. Their responsibilities include the management of servants, the carrying out of Imperial orders, and the facilitation of military campaigns.
 > 
 > Successful usurpations of the throne have seen Wood Elves elevated to High Elves in the past. This is usually accompanied by retroactive adoptions or fortuitous "discoveries" in one's family tree in order to maintain a tenuous claim to pure blood.
+
+
+<!-- Navean elves belong to the Elven Empire, a sprawling nation that covers nearly all of the continent. They have an aptitude for weaponry, magic resistance, and agility.
+
+{: .language}
+> **Elven** is the language of enchanting. Proficient characters receive a 20% discount when buying spellbooks, spellcasting focuses, and scrolls. -->
+
+<!-- ##### Nobles of the Empire
+> High elves are raised to embody the Elven ideal, mastering sword, spell, and bow as part of their aristocratic upbringing.  -->
+
+
+<!-- #### Wood Elf
+
+| Feature          | Description                                                                                                                              |
+| :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| Ability Scores   | +2 to Dexterity and +1 to Wisdom                                                                                                         |
+| Speed            | 35 ft. walking speed                                                                                                                     |
+| Languages        | Common, Elven                                                                                                                            |
+| Skills           | Perception                                                                                                                               |
+| Darkvision       | 60 ft.                                                                                                                                   |
+| Weapons          | longswords, shortswords, longbows, and shortbows                                                                                         |
+| Fey Ancestry     | advantage on saves vs. charms, immunity to magic sleep                                                                                   |
+| Trance           | you require 4 hours of rest instead of 8, and remain conscious throughout                                                                |
+| Mask of the Wild | you can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. |
+
+##### Swords of the Empire
+> Wood elves are born in provincial lands, far from the political machinations of the emperor's courts. They are charged with securing the empire's borders and managing its daily affairs. -->
+
