@@ -7,13 +7,13 @@ grand_parent: World
 
 # The Nameless Desert
 
-#### Geography
-
-> Rolling sand dunes crest and fall for hundreds of miles in every direction. The burning sun bleaches the sand a perfect, blinding white. On rare cloud-filled days the desert is indistinguishable from the sky. Rumor has it that halfling villages can be found along secret oases.
-
-#### Halfling Tribes
-
-> The nomadic [Stout Halfling](../../character_creation/race/halfling#stout-halfling) tribes are not native to the Nameless Desert, but have spent several generations inhabiting it since their exodus from the greenlands. The desert provides a natural barrier against conquest by Elves or Dwarves, and time spent living among the wastes have made Halfling hunters exceptionally skilled. Deadly poisons are now one of their people's primary exports.
+> ##### Geography
+>
+> Rolling sand dunes crest and fall for hundreds of miles in every direction. The burning sun bleaches the sand a perfect, blinding white. On rare cloud-filled days the desert is indistinguishable from the sky. Rumor has it that Halfling villages can be found along secret oases.
+>
+> ##### Halfling Tribes
+>
+> The nomadic Halfling tribes are not native to the Nameless Desert, but have spent several generations inhabiting it since their exodus from the greenlands. The desert provides a natural barrier against conquest by Elves or Dwarves, and time spent living among the wastes have made Halfling hunters exceptionally skilled.
 
 
 ---

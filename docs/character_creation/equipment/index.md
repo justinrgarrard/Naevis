@@ -3,7 +3,7 @@ layout: default
 title: Equipment
 parent: Character Creation
 has_children: true
-has_toc: true
+has_toc: false
 nav_order: 4
 ---
 

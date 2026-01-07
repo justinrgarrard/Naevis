@@ -18,38 +18,14 @@ nav_order: 4
 
 
 {: .note}
-> ##### Shattered Kingdoms
+> ##### Homeland
 > 
-> The disparate human tribes once formed kingdoms across the continent. Long conquered, today they serve as serfs in Dwarven and Elven lands.
+> The disparate human tribes once formed kingdoms across the continent. The kingdoms warred with another through pre-history, dragon riders and knights skirmishing for territory for unknown centuries. The Elven Empire marked the end of an era when its armies swept through the disorganized kingdoms like fire. Those few who escaped destruction did so by pledging their lands to Dwarven rule.
 > 
-> ##### Servile Clans
+> ##### Second Class Citizens
 > 
-> A few fortunate humans live in clans dedicated to an influential family of Elves or Dwarves. Owing to differences in lifespan, several generations might serve the same lord as spies, wizards, elite warriors, or household staff. 
-
-
-<!-- Humans live in Elven or Dwarven lands. They have an aptitude for versatility.
-
-{: .language}
-> **Common**, the human tongue, is widely used as the language of trade and diplomacy. All characters are proficient in Common.
+> Humanity lives on as laborers, soldiers, and craftsmen under the rule of greater powers. Their original culture is largely extinct, with modern humans practicing the traditions of their conquerors. They remain the most populous race however, and several movements seek to expand their political power.
 >
-> **Sylvan**, the language of beasts, is inherited through blood rather than instruction.
+> ##### Faith
 >
-> **Abyssal**, the language of the dead, is also heritable, but far rarer and stigmatized. -->
-
-
-<!-- ##### A Legion of Serfs
->  A spark of magic flows through their blood, granting the power to speak the language of beasts.
- -->
-
-<!-- ### Variant
-
-| Feature        | Description                      |
-| :------------- | :------------------------------- |
-| Ability Scores | +1 to two ability scores         |
-| Speed          | 30 ft. walking speed             |
-| Languages      | Common                           |
-| Skills         | any one skill                    |
-| Feats          | any one [feat](../../more/feats) |
-
-##### Born Under An Ominous Star
-> A select few -->
+> Humans originally held a monotheistic faith worshipping the land itself as a god. Their priesthoods and knightly orders were heavily divided in the specifics of doctrine, but served as a unifying force between disparate nations. Such cults have been largely stamped out in the current age, with most humans now practicing the faith of their rulers.

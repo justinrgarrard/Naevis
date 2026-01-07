@@ -9,10 +9,10 @@ nav_order: 1
 # Cleric
 
 > ##### Qi
-> Clerics (sometimes called *cultivators*) draw their power from [lifeforce](../../../data/archetypes/cleric_life). Their magic comes from within and grows stronger with regular training. [Talismans](../../../data/items/holy_symbol) are used to aid in the expression of that energy.
+> Clerics (sometimes called *cultivators* or *shamans*) draw their power from [lifeforce](../../../data/archetypes/cleric_life). Their magic comes from within and grows stronger with regular training. [Talismans](../../../data/items/holy_symbol) are used to aid in the expression of that energy.
 >
-> ##### Sects
-> Clerics acquire their powers from practices passed down by sects. A sect may be a priesthood, an order of knights, an association of martial artists, or something altogether different. Regardless of form, all sects closely guard their rites from outsiders. 
+> ##### Old Magic
+> Clerics acquire their powers from practices passed down through history. A tradition may be a priesthood, an order of knights, an association of martial artists, or something altogether different. Regardless of form, all traditions closely guard their rites from outsiders. 
 
 
 ---

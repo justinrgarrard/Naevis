@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Life (Qi)
 
-_A cultivator that draws their power from a wellspring of lifeforce. Whether they call it qi, divine grace, or something altogether different, practitioners can perform true miracles by shaping the energies within. The majority of Navean sects fall under this archetype._
+_A cultivator that draws their power from a wellspring of lifeforce. Whether they call it qi, divine grace, or something altogether different, practitioners can perform true miracles by shaping the energies within. The majority of Navean traditions fall under this archetype._
 
 > ##### Life Domain Spells
 > 

@@ -11,7 +11,7 @@ nav_order: 4
 > ##### Ley Lines
 > Wizards have no innate power of their own, instead channeling external forces to fuel their magic. Using a [wand](../../../data/items/arcane_focus), they draw off splinters of energy from ley lines beneath the earth and shape them into spells.
 >
-> ##### Traditions
+> ##### New Magic
 > A practitioner's initial selection of spells is determined by their [background](../background/index). Journeyman eventually come into their own when they choose a [specialization](../../more/archetypes).
 
 ---
