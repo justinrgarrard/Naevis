@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Wind Dancer
 
-_Wandering cultivators who can call the winds to their aid. The earliest practitioners of this tradition were nomadic shamans._
+_Shamans who can call the winds to their aid. The path of wind dancing is common to halfling tribes._
 
 
 > ##### Wind Domain Spells

@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Order of Winter
 
-_Mystics learned in the old ways of magic. The Order of Winter is a monastic cult that favors occultist rites over academic study. Though comparatively few leave the temples, those that do serve as wandering exorcists and priests._
+_Mystics learned in the old ways of magic. The Order of Winter is a monastic cult that favors occultist rites over academic study. TThey have chapters across the continent and make for powerful exorcists._
 
 
 > ##### Winter Domain Spells

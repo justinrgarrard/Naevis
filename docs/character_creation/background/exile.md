@@ -8,13 +8,13 @@ nav_order: 3
 
 # Exile
 
-You did not come to the City of your own free will. You were driven here, perhaps as a punishment for a terrible crime, or perhaps in an attempt to escape persecution. 
-
-**[Skill Proficiency](../../more/review/skills)**: Stealth, Survival
-
-**[Language Proficiency](../../adventuring/languages)**: Cant or One Racial Language
-
-**[Tool Proficiency](../../adventuring/downtime#alchemy)**: One Alchemy Tool
+>You did not come to the City of your own free will. You were driven here, perhaps as a punishment for a terrible crime, or perhaps in an attempt to escape persecution. 
+>
+>**[Skill Proficiency](../../more/review/skills)**: Stealth, Survival
+>
+>**[Language Proficiency](../../adventuring/languages)**: Cant or One Racial Language
+>
+>**[Tool Proficiency](../../adventuring/downtime#alchemy)**: One Alchemy Tool
 
 {: .background-feature}
 > **Survivor**

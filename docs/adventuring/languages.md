@@ -51,5 +51,5 @@ parent: Adventuring
 {: .exotic-language}
 > ##### Sylvan
 > 
-> The secret language of beasts. Proficiency allows the user to speak with animals and nature spirits.
+> The language of beasts. Proficiency allows the user to speak with animals and nature spirits.
 

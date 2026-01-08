@@ -12,7 +12,7 @@ ITEMS = {
   ash_wand: {
     weight: 1,
     value: 50,
-    title: "<i>ash wand</i>",
+    title: "<i>ash ring</i>",
     discount: "elven",
   },
   backpack: { weight: 5, value: 2, title: "backpack", discount: "none" },
@@ -27,7 +27,7 @@ ITEMS = {
     weight: 2,
     value: 5,
     title: "bullseye lantern",
-    discount: "none",
+    discount: "halfling",
   },
   chainmail: { weight: 55, value: 50, title: "chainmail", discount: "dwarven" },
   chainshirt: {
@@ -75,7 +75,7 @@ ITEMS = {
     weight: 0,
     value: 50,
     title: "<i>marble ring</i>",
-    discount: "none",
+    discount: "elven",
   },
   mist_dagger: {
     weight: 1,
@@ -99,6 +99,7 @@ ITEMS = {
   pouch: { weight: 1, value: 1, title: "pouch", discount: "none" },
   rapier: { weight: 2, value: 10, title: "rapier", discount: "dwarven" },
   rations: { weight: 6, value: 3, title: "rations (3)", discount: "none" },
+  robe: {weight: 4, value: 1, title: "robe", discount: "none"},
   ringmail: { weight: 40, value: 25, title: "ring mail", discount: "dwarven" },
   robes: { weight: 4, value: 1, title: "robes", discount: "dwarven" },
   scroll_command: {
@@ -164,7 +165,7 @@ ITEMS = {
     title: "<i>volt staff</i>",
     discount: "elven",
   },
-  rope: { weight: 5, value: 10, title: "silk rope (30 ft)", discount: "none" },
+  rope: { weight: 5, value: 10, title: "silk rope (30 ft)", discount: "halfling" },
 };
 
 CONTAINERS = {
@@ -186,7 +187,39 @@ CLERIC_SPELLS = [
 ];
 
 // Classes.
-// Human, Dwarf
+// Human, Halfling
+const MERCENARY = {
+  ability_scores: { STR: 14, DEX: 15, CON: 12, WIS: 10, INT: 8, CHA: 13 },
+  armor: ["light", "medium", "heavy", "shields"],
+  cantrips: [],
+  class: "fighter",
+  hp: 10,
+  expertise: [],
+  features: ["fighting style: archery", "second wind"],
+  languages: [],
+  resistances: [],
+  skills: ["athletics", "intimidation"],
+  spells: [],
+  title: "mercenary",
+  tools: [],
+  weapons: ["simple", "martial"],
+  writeup: "You are a Mercenary, a sword for hire.",
+  races: ["human", "halfling"],
+  inv_worn: [
+    ITEMS.shortsword,
+    ITEMS.shield,
+    ITEMS.shortbow,
+    ITEMS.studded_leather,
+    ITEMS.backpack,
+    ITEMS.pouch,
+    ITEMS.rope,
+  ],
+  inv_pouch: [ITEMS.ammunition, ITEMS.sparking_ammo, ITEMS.potion_of_healing],
+  inv_backpack: [ITEMS.rations, ITEMS.torches, ITEMS.tinderbox],
+  ability_proficiencies: ["STR", "CON"],
+};
+
+// Dwarf
 const LEGIONNAIRE = {
   ability_scores: { STR: 15, DEX: 14, CON: 12, WIS: 13, INT: 8, CHA: 10 },
   armor: ["light", "medium", "heavy", "shields"],
@@ -202,8 +235,8 @@ const LEGIONNAIRE = {
   title: "legionnaire",
   tools: [],
   weapons: ["simple", "martial"],
-  writeup: "You are a Legionnaire, a professional soldier trained for war.",
-  races: ["human", "hill dwarf"],
+  writeup: "You are a Legionnaire, a soldier trained for war.",
+  races: ["dwarf"],
   inv_worn: [
     ITEMS.javelin5,
     ITEMS.shield,
@@ -217,69 +250,71 @@ const LEGIONNAIRE = {
   ability_proficiencies: ["STR", "CON"],
 };
 
-// Human, Halfling
-const MERCENARY = {
-  ability_scores: { STR: 14, DEX: 15, CON: 12, WIS: 8, INT: 10, CHA: 13 },
+// Elf
+const DUELIST = {
+  ability_scores: { STR: 12, DEX: 14, CON: 15, WIS: 8, INT: 13, CHA: 10 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
   class: "fighter",
   hp: 10,
   expertise: [],
-  features: ["fighting style: archery", "second wind"],
+  features: ["fighting style: duelist", "second wind"],
   languages: [],
   resistances: [],
-  skills: ["athletics", "intimidation"],
+  skills: ["athletics", "history"],
   spells: [],
   title: "mercenary",
   tools: [],
   weapons: ["simple", "martial"],
-  writeup: "You are a Mercenary, a sword for hire.",
-  races: ["human", "lightfoot halfling"],
+  writeup: "You are a Duelist, an arbiter of legal disputes.",
+  races: ["elf"],
   inv_worn: [
-    ITEMS.shortsword,
+    ITEMS.mythril_longsword,
     ITEMS.shield,
-    ITEMS.shortbow,
+    ITEMS.dagger2,
     ITEMS.studded_leather,
     ITEMS.backpack,
     ITEMS.pouch,
     ITEMS.rope,
   ],
-  inv_pouch: [ITEMS.ammunition, ITEMS.sparking_ammo, ITEMS.potion_of_healing],
+  inv_pouch: [],
   inv_backpack: [ITEMS.rations, ITEMS.torches, ITEMS.tinderbox],
   ability_proficiencies: ["STR", "CON"],
 };
 
+// Human, Halfling
+const SHAMAN = {
+  ability_scores: { STR: 8, DEX: 14, CON: 12, WIS: 15, INT: 10, CHA: 13 },
+  armor: ["light", "medium", "heavy", "shields"],
+  cantrips: [],
+  class: "cleric",
+  hp: 8,
+  expertise: [],
+  features: ["disciple of life"],
+  languages: [],
+  resistances: [],
+  skills: ["medicine", "history"],
+  spells: ["guiding bolt", "cure wounds"],
+  title: "shaman",
+  tools: ["holy symbol", "scrolls"],
+  weapons: ["simple"],
+  writeup: "You are a shaman, one who minds the boundary between living and dead.",
+  races: ["human", "halfling"],
+  inv_worn: [
+    ITEMS.studded_leather,
+    ITEMS.dagger,
+    ITEMS.shield,
+    ITEMS.holy_symbol,
+    ITEMS.backpack,
+    ITEMS.pouch,
+  ],
+  inv_pouch: [ITEMS.ash_wand],
+  inv_backpack: [ITEMS.rations],
+  ability_proficiencies: ["CHA", "WIS"],
+};
 
-// Human, Dwarf
-// const SEER = {
-//   ability_scores: { STR: 15, DEX: 8, CON: 14, WIS: 13, INT: 12, CHA: 10 },
-//   armor: ["light", "medium", "heavy", "shields"],
-//   cantrips: [],
-//   class: "cleric",
-//   hp: 8,
-//   expertise: [],
-//   features: ["disciple of life"],
-//   languages: [],
-//   resistances: [],
-//   skills: ["medicine", "history"],
-//   spells: ["bless", "cure wounds"],
-//   title: "seer",
-//   tools: ["holy symbol", "scrolls"],
-//   weapons: ["simple"],
-//   writeup: "You are a seer, a warrior priest with skill in divination.",
-//   races: ["human", "hill dwarf"],
-//   inv_worn: [
-//     ITEMS.chainmail,
-//     ITEMS.warhammer,
-//     ITEMS.shield,
-//     ITEMS.holy_symbol,
-//     ITEMS.backpack,
-//     ITEMS.pouch,
-//   ],
-//   inv_pouch: [ITEMS.scroll_command],
-//   inv_backpack: [ITEMS.rations],
-//   ability_proficiencies: ["CHA", "WIS"],
-// };
+
+// Dwarf
 const SEER = {
   ability_scores: { STR: 15, DEX: 8, CON: 14, WIS: 13, INT: 12, CHA: 10 },
   armor: ["light", "medium", "heavy", "shields"],
@@ -296,11 +331,10 @@ const SEER = {
   tools: ["holy symbol", "scrolls"],
   weapons: ["simple"],
   writeup: "You are a seer, a warrior priest with skill in divination.",
-  races: ["human", "hill dwarf"],
+  races: ["dwarf"],
   inv_worn: [
     ITEMS.chainmail,
     ITEMS.warhammer,
-    ITEMS.shield,
     ITEMS.holy_symbol,
     ITEMS.backpack,
     ITEMS.pouch,
@@ -310,9 +344,9 @@ const SEER = {
   ability_proficiencies: ["CHA", "WIS"],
 };
 
-// Human, Halfling
-const SHAMAN = {
-  ability_scores: { STR: 8, DEX: 14, CON: 12, WIS: 15, INT: 10, CHA: 13 },
+// Elf
+const CULTIVATOR = {
+  ability_scores: { STR: 12, DEX: 14, CON: 13, WIS: 15, INT: 10, CHA: 8 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
   class: "cleric",
@@ -321,30 +355,66 @@ const SHAMAN = {
   features: ["disciple of life"],
   languages: [],
   resistances: [],
-  skills: ["medicine", "history"],
-  spells: ["bless", "cure wounds"],
-  title: "shaman",
+  skills: ["insight", "medicine"],
+  spells: ["detect magic", "healing word"],
+  title: "seer",
   tools: ["holy symbol", "scrolls"],
   weapons: ["simple"],
-  writeup: "You are a shaman, one who minds the boundary between living and dead.",
-  races: ["human", "lightfoot halfling"],
+  writeup: "You are a cultivator, a mystic that mixes magic and martial arts.",
+  races: ["elf"],
   inv_worn: [
     ITEMS.studded_leather,
-    ITEMS.dagger,
+    ITEMS.mythril_longsword,
     ITEMS.shield,
     ITEMS.holy_symbol,
     ITEMS.backpack,
     ITEMS.pouch,
   ],
-  inv_pouch: [ITEMS.scroll_command],
+  inv_pouch: [],
   inv_backpack: [ITEMS.rations],
   ability_proficiencies: ["CHA", "WIS"],
 };
 
+// Human, Halfling
+const TRICKSTER = {
+  ability_scores: { STR: 10, DEX: 15, CON: 12, WIS: 14, INT: 8, CHA: 13 },
+  armor: ["light"],
+  cantrips: [],
+  class: "rogue",
+  hp: 8,
+  expertise: ["deception", "perception"],
+  features: ["sneak attack"],
+  languages: ["cant"],
+  resistances: [],
+  skills: ["persuasion", "perception", "deception", "stealth"],
+  spells: [],
+  title: "trickster",
+  tools: ["thieves'"],
+  weapons: ["simple", "rogue"],
+  writeup:
+    "You are a Trickster, an expert in misdirection.",
+  races: ["human", "halfling"],
+  inv_worn: [
+    ITEMS.dagger5,
+    ITEMS.studded_leather,
+    ITEMS.backpack,
+    ITEMS.pouch,
+    ITEMS.rope,
+  ],
+  inv_pouch: [ITEMS.sleeping_powder],
+  inv_backpack: [
+    ITEMS.rations,
+    ITEMS.thieves_tools,
+    ITEMS.bullseye_lantern,
+    ITEMS.oil3,
+  ],
+  ability_proficiencies: ["DEX", "INT"],
+};
 
-// Human, Dwarf
+
+// Dwarf
 const DUNGEONEER = {
-  ability_scores: { STR: 12, DEX: 15, CON: 14, WIS: 13, INT: 8, CHA: 10 },
+  ability_scores: { STR: 14, DEX: 15, CON: 12, WIS: 13, INT: 10, CHA: 8 },
   armor: ["light"],
   cantrips: [],
   class: "rogue",
@@ -360,16 +430,15 @@ const DUNGEONEER = {
   weapons: ["simple", "rogue"],
   writeup:
     "You are a Dungeoneer, a specialist in looting ruins and spotting traps.",
-  races: ["human", "hill dwarf"],
+  races: ["dwarf"],
   inv_worn: [
-    ITEMS.dagger2,
+    ITEMS.dagger5,
     ITEMS.studded_leather,
-    ITEMS.marble_ring,
     ITEMS.backpack,
     ITEMS.pouch,
     ITEMS.rope,
   ],
-  inv_pouch: [],
+  inv_pouch: [ITEMS.thunderbomb],
   inv_backpack: [
     ITEMS.rations,
     ITEMS.thieves_tools,
@@ -379,9 +448,9 @@ const DUNGEONEER = {
   ability_proficiencies: ["DEX", "INT"],
 };
 
-// Human, Elf
+// Elf
 const SCOUT = {
-  ability_scores: { STR: 14, DEX: 15, CON: 12, WIS: 10, INT: 13, CHA: 8 },
+  ability_scores: { STR: 13, DEX: 14, CON: 12, WIS: 15, INT: 10, CHA: 8 },
   armor: ["light"],
   cantrips: [],
   class: "rogue",
@@ -396,11 +465,11 @@ const SCOUT = {
   tools: ["thieves'"],
   weapons: ["simple", "rogue"],
   writeup: "You are a Scout, an expert in ambushes and reconnaissance.",
-  races: ["human", "high elf"],
+  races: ["elf"],
   inv_worn: [
     ITEMS.shortsword,
     ITEMS.shortsword,
-    ITEMS.shortbow,
+    ITEMS.longbow,
     ITEMS.studded_leather,
     ITEMS.backpack,
     ITEMS.pouch,
@@ -432,7 +501,7 @@ const WITCH = {
   tools: ["wand", "spellbook", "scrolls"],
   weapons: ["wizard"],
   writeup: "You are a Witch, a magic-user skilled with enchanted items.",
-  races: ["human", "lightfoot halfling"],
+  races: ["human", "halfling"],
   inv_worn: [ITEMS.dagger, ITEMS.volt_staff, ITEMS.backpack, ITEMS.pouch],
   inv_pouch: [],
   inv_backpack: [ITEMS.rations, ITEMS.spellbook],
@@ -456,8 +525,8 @@ const SPELLSWORD = {
   title: "spellsword",
   tools: ["wand", "spellbook", "scrolls"],
   weapons: ["wizard"],
-  writeup: "You are a Spellsword, a magic-user armed with blade and bow.",
-  races: ["high elf"],
+  writeup: "You are a Spellsword, an elven magic-user armed with blade and bow.",
+  races: ["elf"],
   inv_worn: [
     ITEMS.shortsword,
     ITEMS.dagger2,
@@ -465,20 +534,56 @@ const SPELLSWORD = {
     ITEMS.wand,
     ITEMS.backpack,
     ITEMS.pouch,
+    ITEMS.robe,
   ],
   inv_pouch: [ITEMS.scroll_sleep, ITEMS.ammunition, ITEMS.potion_of_healing],
   inv_backpack: [ITEMS.rations, ITEMS.spellbook],
   ability_proficiencies: ["INT", "WIS"],
 };
 
+// Dwarf
+const RUNEKEEPER = {
+  ability_scores: { STR: 12, DEX: 10, CON: 15, WIS: 13, INT: 14, CHA: 8 },
+  armor: [],
+  cantrips: [],
+  class: "wizard",
+  hp: 6,
+  expertise: [],
+  features: ["arcane recovery"],
+  languages: [],
+  resistances: [],
+  skills: ["arcana", "history"],
+  spells: [],
+  title: "runekeeper",
+  tools: ["wand", "spellbook", "scrolls"],
+  weapons: ["wizard"],
+  writeup: "You are a Runekeeper, a dwarven magic-user with deep knowledge of the world.",
+  races: ["dwarf"],
+  inv_worn: [
+    ITEMS.warhammer,
+    ITEMS.robe,
+    ITEMS.wand,
+    ITEMS.backpack,
+    ITEMS.pouch,
+  ],
+  inv_pouch: [ITEMS.scroll_sleep, ITEMS.potion_of_healing],
+  inv_backpack: [ITEMS.rations, ITEMS.spellbook],
+  ability_proficiencies: ["INT", "WIS"],
+};
+
+
 const CLASSES = {
+  cultivator: CULTIVATOR,
+  duelist: DUELIST,
   dungeoneer: DUNGEONEER,
   legionnaire: LEGIONNAIRE,
   mercenary: MERCENARY,
+  runekeeper: RUNEKEEPER,
   scout: SCOUT,
   seer: SEER,
   shaman: SHAMAN,
   spellsword: SPELLSWORD,
+  trickster: TRICKSTER,
   witch: WITCH,
 };
 
@@ -1123,7 +1228,7 @@ function generateHighConcept(
   return `
         <tr>
             <td><b>Race</b></td>
-            <td>${character_race.subrace} ${character_race.race}</td>
+            <td>${character_race.race}</td>
         </tr>
         <tr>
             <td><b>Class</b></td>
@@ -1497,38 +1602,38 @@ else {
 
 
 // Trimmed.
-// Variant Human
-// const MAGE_KNIGHT = {
-//   ability_scores: { STR: 16, DEX: 8, CON: 14, WIS: 12, INT: 14, CHA: 10 },
+// // Variant
+// const TEMPLAR = {
+//   ability_scores: { STR: 15, DEX: 8, CON: 14, WIS: 13, INT: 10, CHA: 12 },
 //   armor: ["light", "medium", "heavy", "shields"],
-//   cantrips: ["light", "fire bolt", "minor illusion"],
-//   class: "fighter",
-//   hp: 10,
+//   cantrips: [],
+//   class: "cleric",
+//   hp: 8,
 //   expertise: [],
 //   features: [
+//     "disciple of life",
+//     "feat: fighter multiclass",
 //     "fighting style: defense",
-//     "second wind",
-//     "feat: wizard multiclass",
 //   ],
 //   languages: [],
 //   resistances: [],
-//   skills: ["athletics", "history", "arcana"],
-//   spells: [],
-//   title: "mage knight",
-//   tools: ["wand"],
-//   weapons: ["simple", "martial"],
-//   writeup: "You are a Mage Knight, a warrior trained in arcane magic.",
+//   skills: ["athletics", "persuasion"],
+//   spells: ["bless", "cure wounds"],
+//   title: "templar",
+//   tools: ["holy symbol", "scrolls"],
+//   weapons: ["simple", "greatsword", "longsword"],
+//   writeup: "You are a Templar, an ordained knight blessed with divine power.",
 //   races: ["variant"],
 //   inv_worn: [
-//     ITEMS.halberd,
 //     ITEMS.chainmail,
+//     ITEMS.greatsword,
+//     ITEMS.holy_symbol,
 //     ITEMS.backpack,
 //     ITEMS.pouch,
-//     ITEMS.wand,
 //   ],
 //   inv_pouch: [],
 //   inv_backpack: [ITEMS.rations],
-//   ability_proficiencies: ["STR", "CON"],
+//   ability_proficiencies: ["CHA", "WIS"],
 // };
 
 // Wood Elf
@@ -1563,39 +1668,7 @@ else {
 //   ability_proficiencies: ["CHA", "WIS"],
 // };
 
-// Variant
-// const TEMPLAR = {
-//   ability_scores: { STR: 16, DEX: 8, CON: 14, WIS: 14, INT: 10, CHA: 12 },
-//   armor: ["light", "medium", "heavy", "shields"],
-//   cantrips: [],
-//   class: "cleric",
-//   hp: 8,
-//   expertise: [],
-//   features: [
-//     "disciple of life",
-//     "feat: fighter multiclass",
-//     "fighting style: defense",
-//   ],
-//   languages: [],
-//   resistances: [],
-//   skills: ["athletics", "medicine", "persuasion"],
-//   spells: ["bless", "cure wounds"],
-//   title: "templar",
-//   tools: ["holy symbol", "scrolls"],
-//   weapons: ["simple", "greatsword", "longsword"],
-//   writeup: "You are a Templar, an ordained knight blessed with divine power.",
-//   races: ["variant"],
-//   inv_worn: [
-//     ITEMS.chainmail,
-//     ITEMS.greatsword,
-//     ITEMS.holy_symbol,
-//     ITEMS.backpack,
-//     ITEMS.pouch,
-//   ],
-//   inv_pouch: [],
-//   inv_backpack: [ITEMS.rations],
-//   ability_proficiencies: ["CHA", "WIS"],
-// };
+
 
 // Mountain Dwarf
 // const WARDER = {
@@ -1626,6 +1699,40 @@ else {
 //   inv_pouch: [],
 //   inv_backpack: [ITEMS.rations, ITEMS.spellbook],
 //   ability_proficiencies: ["INT", "WIS"],
+// };
+
+// // Variant Human
+// const MAGE_KNIGHT = {
+//   ability_scores: { STR: 15, DEX: 8, CON: 14, WIS: 12, INT: 13, CHA: 10 },
+//   armor: ["light", "medium", "heavy", "shields"],
+//   cantrips: ["light", "fire bolt", "minor illusion"],
+//   class: "fighter",
+//   hp: 10,
+//   expertise: [],
+//   features: [
+//     "fighting style: defense",
+//     "second wind",
+//     "feat: wizard multiclass",
+//   ],
+//   languages: [],
+//   resistances: [],
+//   skills: ["athletics", "history"],
+//   spells: [],
+//   title: "mage knight",
+//   tools: ["wand"],
+//   weapons: ["simple", "martial"],
+//   writeup: "You are a Mage Knight, a warrior trained in arcane magic.",
+//   races: ["variant"],
+//   inv_worn: [
+//     ITEMS.halberd,
+//     ITEMS.chainmail,
+//     ITEMS.backpack,
+//     ITEMS.pouch,
+//     ITEMS.wand,
+//   ],
+//   inv_pouch: [],
+//   inv_backpack: [ITEMS.rations],
+//   ability_proficiencies: ["STR", "CON"],
 // };
 
 // const MOUNTAIN_DWARF = {
@@ -1697,6 +1804,6 @@ else {
 //   tools: [],
 //   weapons: [],
 //   writeup:
-//     "You are an upper-class human from an influential family.",
+//     "You are of human descent, but marked by an omen.",
 //   mv: 30,
 // };

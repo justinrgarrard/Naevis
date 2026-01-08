@@ -17,9 +17,9 @@ parent: Adventuring
 
 > ##### Artifacts
 > Items with a rarity above *Common* are not for sale, and can only be acquired while [exploring](../gm_guide/toolbox/treasures/index). 
-> 
-> ##### Attunement
-> Some items require attunement to use. The attunement process can be done over a short rest, provided that the item in question is identified. The maximum number of items an adventurer can attune to is equal to: **(Charisma Modifier + 1)**, minimum 1.
 >
 > ##### Identification
 > Items can be identified with the _Identify_ spell, or by paying 25 gp while in a city.
+>  
+> ##### Attunement
+> Some items require attunement to use. The attunement process can be done over a short rest, provided that the item in question is identified. The maximum number of items an adventurer can attune to is equal to: **(Charisma Modifier + 1)**, minimum 1.

@@ -9,11 +9,11 @@ nav_order: 1
 
 # Alchemist
 
-You came to the City to be at the forefront of innovation. You have an interest in the unusual materials found within the City and the strange products which might result. Depending on upbringing, you may approach alchemy through scientific principals, occultist texts, or as a discipline of magic. 
+> You came to the City to be at the forefront of innovation. You have an interest in the unusual materials found within the City and the strange products which might result. Depending on upbringing, you may approach alchemy through scientific principals, occultist texts, or as a discipline of magic. 
+>
+> **[Skill Proficiency](../../more/review/skills)**: Nature, Investigation
 
-**[Skill Proficiency](../../more/review/skills)**: Nature, Investigation
-
-**[Tool Proficiency](../../adventuring/downtime#alchemy)**: Two Alchemy Tools
+> **[Tool Proficiency](../../adventuring/downtime#alchemy)**: Two Alchemy Tools
 
 
 {: .background-feature}

@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Cleric: Stone Legionnaire
 
-_Warrior monks that seek enlightenment through adversity. The Stone Legionnaires originated as a brotherhood of ascetics._
+_Warrior monks that seek enlightenment through adversity. The Stone Legionnaires were originally a Dwarven fraternity of ascetic priests._
 
 
 > ##### Stone Domain Spells

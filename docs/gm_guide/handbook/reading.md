@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recommended Reading
+title: Reading
 parent: Handbook
 grand_parent: GM Guide
 nav_order: 99
@@ -12,11 +12,11 @@ nav_order: 99
 | :---------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
 | [FATE Core GM Advice](https://fate-srd.com/fate-core/running-game)                                                | How to run a game that's interesting.       |
 | [AngryGM](https://theangrygm.com/the-angry-guide-to-akicking-combats-part-1-picking-your-enemies/)                | How to run 5E combats that are interesting. |
-| [Dungeon World GM Advice](https://www.dungeonworldsrd.com/gamemastering/)                                         | How soft and hard moves work.               |
-| [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html?m=1)                          | What should be in a dungeon.                |
-| [Just Use Bears](https://talesofthegrotesqueanddungeonesque.blogspot.com/2016/08/just-use-bears.html)             | -                                           |
-| [Principia Apocrypha](https://drive.google.com/file/d/1rN5w4-azTq3Kbn0Yvk9nfqQhwQ1R5by1/view)                     | Tips for dungeon crawling games.            |
-| [Sanderson's Third Law of Magic](https://coppermind.net/wiki/Sanderson%27s_Laws_of_Magic#Sanderson.27s_Third_Law) | Do more with less.                          |
+| [Dungeon World GM Advice](https://www.dungeonworldsrd.com/gamemastering/)                                         | How to hint at danger.                      |
+| [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html?m=1)                          | How to build a dungeon.                     |
+| [Just Use Bears](https://talesofthegrotesqueanddungeonesque.blogspot.com/2016/08/just-use-bears.html)             | How to improvise enemies.                   |
+| [Principia Apocrypha](https://drive.google.com/file/d/1rN5w4-azTq3Kbn0Yvk9nfqQhwQ1R5by1/view)                     | How to crawl dungeons.                      |
+| [Sanderson's Third Law of Magic](https://coppermind.net/wiki/Sanderson%27s_Laws_of_Magic#Sanderson.27s_Third_Law) | How to do more with less.                   |
 
 {: .note}
 > **Conflicting Advice**

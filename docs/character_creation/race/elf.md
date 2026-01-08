@@ -26,7 +26,7 @@ nav_order: 1
 {: .note}
 > ##### Homeland
 > 
-> Vast and sprawling, the Elven Empire dominates global politics as the singular greatest force known to Kindred. Its holdings span a collection of Elven and Human provinces that run from the Eastern Shores to the Western Mountains. The Ivory Emperor (3rd of her dynasty and 22nd to rule) is held up as Steward of the World Itself.
+> Vast and sprawling, the Elven Empire dominates global politics. Its holdings span a collection of Elven and Human provinces that run from the Eastern Shores to the Western Mountains. The Ivory Emperor (3rd of her dynasty and 22nd to rule) is held up as Steward of the World Itself.
 > 
 > ##### Mandate of Heaven
 > 

@@ -38,15 +38,15 @@ Downtime takes place between expeditions. It includes a [long rest](../more/revi
 >
 > | Tool                             | Alchemics                                                                                                                             |
 > | :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
-> | Alchemist or Herbalist or Brewer | [Potion of Cleansing](../../data/alchemics/potion_of_cleansing) and [Potion of Healing](../../data/alchemics/potion_of_healing) |
+> | Alchemist / Herbalist / Brewer | [Potion of Cleansing](../../data/alchemics/potion_of_cleansing) and [Potion of Healing](../../data/alchemics/potion_of_healing) |
 > | Poisoner                         | [Scorpion Venom](../../data/alchemics/scorpion_venom) and [Sleeping Powder](../../data/alchemics/sleeping_powder)               |
-> | Tinker or Mason                  | [Firebomb](../../data/alchemics/firebomb) and [Thunderbomb](../../data/alchemics/thunderbomb)                                   |
-> | Woodcarver or Smith              | [Sonic Ammo](../../data/alchemics/sonic_ammo) and [Sparking Ammo](../../data/alchemics/sparking_ammo)                           |
+> | Tinker / Mason                  | [Thunderbomb](../../data/alchemics/thunderbomb) and [Smoke Bomb](../../data/alchemics/smokebomb)                                  |
+> | Woodcarver / Smith              | [Sonic Ammo](../../data/alchemics/sonic_ammo) and [Sparking Ammo](../../data/alchemics/sparking_ammo)                           |
 >
 > Create an item from the above table.
 
 {: .note}
-> ##### Performance
+> ##### Busking
 > 
 > *Requires proficiency in instruments.* 
 > 

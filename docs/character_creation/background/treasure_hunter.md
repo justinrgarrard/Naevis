@@ -8,13 +8,13 @@ nav_order: 6
 
 # Treasure Hunter
 
-You came to the City in search of fortune and glory. You may be a sellsword, a tomb raider, or an ambitious sheepherder come to try your luck. You likely have a keen sense for danger, some familiarity with City Dweller languages, and training with lockpicks.
-
-**[Skill Proficiency](../../more/review/skills)**: Perception, Insight
-
-**[Language Proficiency](../../adventuring/languages)**: Undercommon or Infernal
-
-**[Tool Proficiency](../../adventuring/downtime#alchemy)**: Thieves' Tools or One Alchemy Tool
+>You came to the City in search of fortune and glory. You may be a sellsword, a tomb raider, or an ambitious sheepherder come to try your luck. 
+>
+>**[Skill Proficiency](../../more/review/skills)**: Perception, Insight
+>
+>**[Language Proficiency](../../adventuring/languages)**: Undercommon
+>
+>**[Tool Proficiency](../../adventuring/downtime#alchemy)**: Thieves' Tools or One Alchemy Tool
 
 {: .background-feature}
 > **Read the Room**

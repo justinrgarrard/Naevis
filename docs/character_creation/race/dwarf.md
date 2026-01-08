@@ -8,7 +8,7 @@ nav_order: 2
 
 # Dwarf
 
-> With their natural hardiness and weapons training, dwarves make for excellent adventurers.
+> With their natural hardiness and weapons training, dwarves make excellent adventurers.
 
 | Feature                                     | Description                                                                        |
 | :------------------------------------------ | :--------------------------------------------------------------------------------- |

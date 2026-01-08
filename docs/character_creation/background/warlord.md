@@ -8,13 +8,13 @@ nav_order: 8
 
 # Warlord
 
-You came to the City to test your abilities against a true challenge. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight proving your mettle. You specialize in warfare, possessing familiarity with battlefield tactics like first aid and hand signs.
-
-**[Skill Proficiency](../../more/review/skills)**: Intimidation, Medicine
-
-**[Language Proficiency](../../adventuring/languages)**: Cant or One Racial Language
-
-**[Tool Proficiency](../../adventuring/downtime#alchemy)**: One Alchemy Tool
+>You came to the City to test your abilities against a true challenge. You may be a tribal chieftain, a sorcerer prince, or a first-generation knight proving your mettle. 
+>
+>**[Skill Proficiency](../../more/review/skills)**: Intimidation, Medicine
+>
+>**[Language Proficiency](../../adventuring/languages)**: Cant or One Racial Language
+>
+>**[Tool Proficiency](../../adventuring/downtime#alchemy)**: One Alchemy Tool
 
 {: .background-feature}
 > **First Blood**

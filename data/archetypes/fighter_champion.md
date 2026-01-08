@@ -16,7 +16,7 @@ _Warriors with no particular martial arts tradition. Instead of specialized tech
 > 
 > 
 > ##### Remarkable Athlete
-> Starting at 7th level, you can add half your proficiency bonus (rounded up) to any Strength, Dexterity, or Constitution check you make > that doesn't already use your proficiency bonus.
+> Starting at 7th level, you can add half your proficiency bonus (rounded up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
 > 
 > In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
 > 
@@ -30,7 +30,7 @@ _Warriors with no particular martial arts tradition. Instead of specialized tech
 > 
 > 
 > ##### Survivor
-> At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + > your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
+> At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
 > 
 
 

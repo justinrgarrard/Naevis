@@ -10,12 +10,23 @@ nav_order: 4
 
 > A spark of ancient magic flows through human blood, granting them the language of beasts. 
 
-| Feature        | Description                                                    |
-| :------------- | :------------------------------------------------------------- |
-| Ability Scores | +1 to all ability scores                                       |
-| Speed          | 30 ft. walking speed                                           |
-| Languages      | Common, [Sylvan](../../adventuring/mechanics/languages#sylvan) |
+| Feature        | Description                                          |
+| :------------- | :--------------------------------------------------- |
+| Ability Scores | +1 to all ability scores                             |
+| Speed          | 30 ft. walking speed                                 |
+| Languages      | Common, [Sylvan](../../adventuring/languages#sylvan) |
 
+{: .variant}
+> ##### Child of Omen
+>
+> For some humans, the magic in their blood manifests differently. *Children of Omen* are born sickly but possess remarkable talents.
+>
+> | Feature        | Description                   |
+> | :------------- | :---------------------------- |
+> | Ability Scores | No bonuses                    |
+> | Speed          | 30 ft. walking speed          |
+> | Languages      | Common                        |
+> | Feat           | One [Feat](../../more/feats)  | 
 
 {: .note}
 > ##### Homeland
@@ -24,8 +35,8 @@ nav_order: 4
 > 
 > ##### Second Class Citizens
 > 
-> Humanity lives on as laborers, soldiers, and craftsmen under the rule of greater powers. Their original culture is largely extinct, with modern humans practicing the traditions of their conquerors. They remain the most populous race however, and several movements seek to expand their political power.
+> Humanity lives on as laborers, soldiers, and craftsmen under the command of greater powers. Their native traditions are largely extinct, stamped out and replaced by the cultural practices of their conquerors.
 >
 > ##### Faith
 >
-> Humans originally held a monotheistic faith worshipping the land itself as a god. Their priesthoods and knightly orders were heavily divided in the specifics of doctrine, but served as a unifying force between disparate nations. Such cults have been largely stamped out in the current age, with most humans now practicing the faith of their rulers.
+> Humans held to a monotheistic religion worshipping the land itself as a god. Their priesthoods and knightly orders were divided in the specifics of doctrine, but served as a unifying force between disparate kingdoms. Little remains of their faith in the modern era.

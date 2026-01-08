@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Panacea
-parent: City Items
-grand_parent: Loot Tables
+parent: Treasures
+grand_parent: GM Guide
 ---
 
 

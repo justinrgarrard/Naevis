@@ -51,7 +51,7 @@ parent: Welcome
 >
 > ##### Embassies
 >
-> Ambassadors of the Elven Empire and the Dwarven City States. Their thousand-year war is continued in the Canvaslands through espionage and subtle power plays. 
+> Ambassadors of the Elven Empire and the Dwarven City States. Their thousand-year war is continued in the Canvaslands through espionage. 
 >
 > ##### City Dwellers
 >

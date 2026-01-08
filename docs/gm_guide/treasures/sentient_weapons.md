@@ -1,30 +1,13 @@
 ---
 layout: default
 title: Sentient Weapons
-parent: City Items
-grand_parent: Loot Tables
+parent: Treasures
+grand_parent: GM Guide
 ---
 
 # Sentient Weapons
 
-Sentient weapons, as the name suggests, are magical weapons possessed of some awareness. Like [charms](../../../character_creation/equipment/charms), the wielder must form a mental bond to effectively use a sentient weapon.
-
-Unlike charms, sentient weapons have personalities. They are generally primitive and emotional entities with a narrow set of interests. Should their wielder act against their interests, they may rebel by deactivating magic properties or even attempting to possess the user.
-
-#### Characteristics
-
-* **Martial**: All sentient weapons are martial weapons.
-
-* **Attunement**: All sentient weapons require attunement.
-
-* **Magical**: All sentient weapons bypass damage resistance.
-
-* **Multi-Purpose**: All sentient weapons have non-combat applications.
-
-
-#### Rapport
-
-Sentient weapons are possessed of a personality. Should they become dissatisfied with their wielder they will rebel. For minor disagreements, this takes the form of willingly disabling their magical benefits. In more dire situations, the weapon will attempt to possess its wielder.
+Sentient weapons, as the name suggests, are magical weapons possessed of some awareness. They are generally primitive and emotional entities with a narrow set of interests. Should their wielder act against their interests, they may rebel by deactivating magic properties or even attempting to possess the user.
 
 {: .note}
 > **Possession**

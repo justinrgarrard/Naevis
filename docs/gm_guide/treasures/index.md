@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Treasures
-parent: Toolbox
-grand_parent: GM Guide
+parent: GM Guide
 has_children: true
 has_toc: true
 ---
