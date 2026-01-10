@@ -13,7 +13,7 @@ parent: More
 
 #### Let the Dice Fall
 
-Character death is almost always permanent in _Naevis_. _Raise Dead_ and similar spells are largely myths, though the [Nine Devil Princes](../more/the_city_below/devil_princes) may be capable of casting them.
+Character death is almost always permanent in _Naevis_. _Raise Dead_ and similar spells are largely myths, though a few creatures in the world may be capable of casting them.
 
 {: .note}
 > **Review: Death Saving Throws**

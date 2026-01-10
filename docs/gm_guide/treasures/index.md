@@ -10,10 +10,10 @@ has_toc: true
 
 #### Loot Guidelines
 
-| Table                         | Type         | Typical Level |
-| :---------------------------- | :----------- | :------------ |
-| [Minor](../tables/loot_minor) | Low rarity.  | 1-5           |
-| [Major](../tables/loot_major) | High rarity. | 6-10          |
+| Table                               | Type         | Typical Level |
+| :---------------------------------- | :----------- | :------------ |
+| [Minor](loot_table#low-level-loot)  | Low rarity.  | 1-5           |
+| [Major](loot_table#high-level-loot) | High rarity. | 6-10          |
 
 ---
 
@@ -25,7 +25,7 @@ Items with a rarity above *Common* cannot be purchased, only found while explori
 | :------------------------------------------------------------- | :--------- |
 | Potion (Common)                                                | 12 gp      |
 | Scroll (Common)                                                | 12 gp      |
-| [Charm](../../../character_creation/equipment/charms) (Common) | 25 gp      |
+| [Magic Weapon](../../character_creation/equipment/arms#magic-weapons-50-gp) (Common) | 25 gp      |
 | Scroll (Uncommon)                                              | 75 gp      |
 | [Elemental Crystal](elemental_crystals) (Uncommon)             | 125 gp     |
 | [Panacea](panacea) (Uncommon)                                  | 125 gp     |

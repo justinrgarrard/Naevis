@@ -17,7 +17,7 @@ nav_order: 2
 | Languages                                   | Common, Dwarven                                                                    |
 | Darkvision                                  | 60 ft.                                                                             |
 | Weapons                                     | battleaxe, handaxe, light hammer, and warhammer                                    |
-| [Tools](../../adventuring/downtime/alchemy) | smith's tools, brewer's tools, or mason's tools                                    |
+| [Tools](../../adventuring/downtime#alchemy) | smith's tools, brewer's tools, or mason's tools                                    |
 | Poison Resistance                           | advantage on saves vs. poison, resistance to poison damage                         |
 | Stonecunning                                | add double your proficiency bonus to Intelligence (History) checks on stonework    |
 | Dwarven Toughness                           | your maximum hit points increases by one additional point for each level you have. |

@@ -67,7 +67,7 @@ You don't need advantage on the attack roll if another enemy of the target is wi
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
 
 #### Cant
-During your rogue training you learned [cant](../../adventuring/mechanics/languages#cant), a combination sign and signal language that allows you to communicate without words.
+During your rogue training you learned cant, a combination sign and signal language that allows you to communicate without words.
 
 #### Cunning Action
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.

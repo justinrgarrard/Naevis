@@ -8,7 +8,7 @@ grand_parent: GM Guide
 
 # Panacea
 
-A prized wonder medicine whose recipe is known only by the [City Dwellers](../../../more/the_city_below/index). Panacea is superior to the alchemical potions Kindred are capable of making. It can be used multiple times and treats illness while restoring health.
+A prized wonder medicine whose recipe is known only by the City Dwellers. Panacea is superior to the alchemical potions Kindred are capable of making. It can be used multiple times and treats illness while restoring health.
 
 {: .mundane-item}
 > **Panacea**

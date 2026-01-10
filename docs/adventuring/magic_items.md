@@ -16,7 +16,7 @@ parent: Adventuring
 > Attacks with this weapon deal +1 fire damage. The blade emits bright light out 20 feet and dim light 20 feet further while unsheathed. Flammable objects that touch the sword ignite, provided that they aren't being worn or carried. 
 
 > ##### Artifacts
-> Items with a rarity above *Common* are not for sale, and can only be acquired while [exploring](../gm_guide/toolbox/treasures/index). 
+> Items with a rarity above *Common* are not for sale, and can only be acquired while exploring. 
 >
 > ##### Identification
 > Items can be identified with the _Identify_ spell, or by paying 25 gp while in a city.

@@ -32,15 +32,15 @@ parent: Welcome
 
 > ##### The City Below
 >
-> A [subterranean otherworld](../more/the_city_below/index) beneath the ruins of a mysterious desert city. Its tunnels are filled with treasures and danger.
+> A [subterranean otherworld](../world/the_city_below/index) beneath the ruins of a mysterious desert city. Its tunnels are filled with treasures and danger.
 >
 > ##### The Canvaslands
 >
-> A [lawless shantytown](../more/the_world/canvaslands) of yurts and market stalls around the City's entrance. Aspiring slumlords rent out hostels to adventuring parties in the area, while opportunistic merchants trade water for gold.
+> A [lawless shantytown](../world/the_lands_above/canvaslands) of yurts and market stalls around the City's entrance. Aspiring slumlords rent out hostels to adventuring parties in the area, while opportunistic merchants trade water for gold.
 > 
 > ##### The Nameless Desert
 >
-> A [vast arid desert](../more/the_world/nameless_desert) prone to sandstorms and drought. Giant scorpions comb the sands for any traveler foolish enough to walk the wastes alone.
+> A [vast arid desert](../world/the_lands_above/nameless_desert) prone to sandstorms and drought. Giant scorpions comb the sands for any traveler foolish enough to walk the wastes alone.
 
 
 #### People

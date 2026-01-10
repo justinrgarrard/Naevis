@@ -14,7 +14,7 @@ nav_order: 1
 | :------------- | :---------------------------------------------------------------------------------------------------------------- |
 | Ability Scores | +2 to Dexterity and +1 to Intelligence                                                                            |
 | Speed          | 30 ft. walking speed                                                                                              |
-| Languages      | Common, Elven, one other [language](../../adventuring/mechanics/languages)                                        |
+| Languages      | Common, Elven, one other [language](../../adventuring/languages)                                                  |
 | Skills         | Perception                                                                                                        |
 | Darkvision     | 60 ft.                                                                                                            |
 | Weapons        | longswords, shortswords, longbows, and shortbows                                                                  |

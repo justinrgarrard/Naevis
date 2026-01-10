@@ -24,7 +24,7 @@ has_toc: false
 
 > ##### Language
 >
-> City Dwellers share the same spoken [language](../../adventuring/mechanics/languages) (Undercommon). Magical practitioners also use a written language (Infernal). They are not proficient in Common. 
+> City Dwellers share the same spoken [language](../../adventuring/languages#undercommon) (Undercommon). Magical practitioners also use a written language (Infernal). They are not proficient in Common. 
 >
 > ##### Magic
 >

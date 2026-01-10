@@ -22,7 +22,7 @@ has_toc: false
 *Image generated using [Donjon's Random Dungeon Generator](https://donjon.bin.sh/fantasy/dungeon/).*
 
 > ### Exploration
-> A dungeon is a set of interconnected rooms, each filled with some oddity or threat that the party needs to deal with. Some expeditions may wind through stonehewn tunnels and the lairs of strange beasts. Others may intersect with [City Dweller](../more/the_city_below/index#culture) civilizations, like the vast underground libraries of the Tieflings.
+> A dungeon is a set of interconnected rooms, each filled with some oddity or threat that the party needs to deal with. Some expeditions may wind through stonehewn tunnels and the lairs of strange beasts. Others may intersect with [City Dweller](../world/the_city_below/index) civilizations, like the vast underground libraries of the Tieflings.
 >
 > ### Survival
 > A dungeon is no place for leisurely naps. Parties may take [Short Rests](../more/review/resting) to catch their breath, but long rests only occur **between** sessions. Be sure to stock up on scrolls and rations before setting out.
