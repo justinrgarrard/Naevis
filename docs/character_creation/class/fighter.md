@@ -35,25 +35,23 @@ nav_order: 2
 >
 > ##### Equipment
 >
-> * _Fighter's Pack (52 lb.)_ or 100 gp.
+> * _Fighter's Pack (45 lb.)_ or 100 gp.
 > 
-> | Item                                           | Weight              | gp    |
-> | :--------------------------------------------- | :------------------ | :---- |
-> | Longsword                                      | 3 lb.               | 10 gp |
-> | Longbow                                        | 2 lb.               | 10 gp |
-> | Shield                                         | 6 lb.               | 5 gp  |
-> | Studded Leather                                | 13 lb.              | 10 gp |
-> | Pouch                                          | 1 lb. (3 / 6 lb.)   | 1 gp  |
-> | ...Arrows (20)                                 | 1 lb.               | 1 gp  |
-> | ...[Potion of Healing](../../character_creation/equipment/tools#alchemical-tools-25-gp)   | 1 lb.               | 25 gp |
-> | ...[Potion of Cleansing](../../character_creation/equipment/tools#alchemical-tools-25-gp) | 1 lb.               | 25 gp |
-> | Backpack                                       | 5 lb. (19 / 30 lb.) | 2 gp  |
-> | ...Rations (x3)                                | 6 lb.               | 3 gp  |
-> | ...Tinderbox                                   | 1 lb.               | 1 gp  |
-> | ...Torches (x5)                                | 5 lb.               | 1 gp  |
-> | ...Handaxe                                     | 2 lb.               | 5 gp  |
-> | ...Crowbar                                     | 5 lb.               | 2 gp  |
-> | ...Spare Gold                                  | -                   | 2 gp  |
+> | Item                                                                                      | Weight              | gp    |
+> | :---------------------------------------------------------------------------------------- | :------------------ | :---- |
+> | Longsword                                                                                 | 3 lb.               | 10 gp |
+> | Longbow                                                                                   | 2 lb.               | 10 gp |
+> | Shield                                                                                    | 6 lb.               | 5 gp  |
+> | Studded Leather                                                                           | 13 lb.              | 10 gp |
+> | Pouch                                                                                     | 1 lb. (3 / 6 lb.)   | 1 gp  |
+> | ...Arrows (20)                                                                            | 1 lb.               | 1 gp  |
+> | ...[Potion of Healing](../equipment/tools#alchemical-tools-25-gp)   | 1 lb.               | 25 gp |
+> | ...[Potion of Cleansing](../equipment/tools#alchemical-tools-25-gp) | 1 lb.               | 25 gp |
+> | Backpack                                                                                  | 5 lb. (12 / 30 lb.) | 2 gp  |
+> | ...Rations (x3)                                                                           | 6 lb.               | 3 gp  |
+> | ...Tinderbox                                                                              | 1 lb.               | 1 gp  |
+> | ...Torches (x5)                                                                           | 5 lb.               | 1 gp  |
+> | ...Spare Gold                                                                             | -                   | 9 gp  |
 
 #### Fighting Style
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.

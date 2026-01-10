@@ -12,7 +12,7 @@ nav_order: 1
 > Clerics (sometimes called *cultivators* or *shamans*) draw their power from [lifeforce](../../../data/archetypes/cleric_life). Their magic comes from within and grows stronger with regular training. [Talismans](../../../data/items/holy_symbol) are used to aid in the expression of that energy.
 >
 > ##### Old Magic
-> Clerics acquire their powers from practices passed down through history. A tradition may be a priesthood, an order of knights, an association of martial artists, or something altogether different. Regardless of form, all traditions closely guard their rites from outsiders. 
+> Clerics acquire their powers from practices passed down through history. A tradition may be a priesthood, an order of knights, a sect of martial artists, or something altogether different. Regardless of form, all traditions closely guard their rites from outsiders. 
 
 
 ---
@@ -45,7 +45,7 @@ nav_order: 1
 > | Studded Leather                              | 13 lb.              | 10 gp |
 > | Holy Amulet                                  | 1 lb.               | 10 gp |
 > | Pouch                                        | 1 lb. (2 / 6 lb.)   | 1 gp  |
-> | ...[Potion of Healing](../../character_creation/equipment/tools#alchemical-tools-25-gp) | 1 lb.               | 25 gp |
+> | ...[Potion of Healing](../equipment/tools#alchemical-tools-25-gp) | 1 lb.               | 25 gp |
 > | ...[Scroll of Bless](../../../data/items/spell_scroll)     | 1 lb.               | 25 gp |
 > | Backpack                                     | 5 lb. (07 / 30 lb.) | 2 gp  |
 > | ...Rations (x3)                              | 6 lb.               | 3 gp  |

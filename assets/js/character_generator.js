@@ -15,7 +15,7 @@ ITEMS = {
     title: "<i>ash ring</i>",
     discount: "elven",
   },
-  backpack: { weight: 5, value: 2, title: "backpack", discount: "none" },
+  backpack: { weight: 5, value: 5, title: "backpack", discount: "halfling" },
   battleaxe: { weight: 1, value: 10, title: "battleaxe", discount: "dwarven" },
   breastplate: {
     weight: 20,
@@ -42,7 +42,7 @@ ITEMS = {
   darts: { weight: 5, value: 1, title: "darts (20)", discount: "dwarven" },
   flintlock_pistol: {
     weight: 2,
-    value: 50,
+    value: 25,
     title: "flintlock pistol",
     discount: "dwarven",
   },
@@ -55,6 +55,7 @@ ITEMS = {
   },
   longbow: { weight: 2, value: 10, title: "longbow", discount: "dwarven" },
   longsword: { weight: 3, value: 10, title: "longsword", discount: "dwarven" },
+  pen: {weight: 1, value: 5, title: "pen and ink", discount: "halfling"},
   greatsword: {
     weight: 6,
     value: 10,
@@ -89,17 +90,18 @@ ITEMS = {
     title: "<i>mythril longsword</i>",
     discount: "dwarven",
   },
-  oil3: { weight: 3, value: 3, title: "flask of oil (3)", discount: "none" },
+  oil3: { weight: 3, value: 3, title: "flask of oil (3)", discount: "halfling" },
   potion_of_healing: {
     weight: 1,
     value: 25,
     title: "potion of healing",
     discount: "halfling",
   },
-  pouch: { weight: 1, value: 1, title: "pouch", discount: "none" },
+  pouch: { weight: 1, value: 1, title: "pouch", discount: "halfling" },
+  quarterstaff: { weight: 4, value: 1, title: "quarterstaff", discount: "dwarven" },
   rapier: { weight: 2, value: 10, title: "rapier", discount: "dwarven" },
-  rations: { weight: 6, value: 3, title: "rations (3)", discount: "none" },
-  robe: {weight: 4, value: 1, title: "robe", discount: "none"},
+  rations: { weight: 6, value: 3, title: "rations (3)", discount: "halfling" },
+  robe: {weight: 4, value: 1, title: "robe", discount: "dwarven"},
   ringmail: { weight: 40, value: 25, title: "ring mail", discount: "dwarven" },
   robes: { weight: 4, value: 1, title: "robes", discount: "dwarven" },
   scroll_command: {
@@ -147,7 +149,7 @@ ITEMS = {
     weight: 1,
     value: 10,
     title: "thieves' tools",
-    discount: "none",
+    discount: "halfling",
   },
   thunderbomb: {
     weight: 5,
@@ -155,8 +157,8 @@ ITEMS = {
     title: "thunderbomb",
     discount: "halfling",
   },
-  tinderbox: { weight: 1, value: 1, title: "tinderbox", discount: "none" },
-  torches: { weight: 5, value: 1, title: "torches (5)", discount: "none" },
+  tinderbox: { weight: 1, value: 1, title: "tinderbox", discount: "halfling" },
+  torches: { weight: 5, value: 1, title: "torches (5)", discount: "halfling" },
   wand: { weight: 1, value: 10, title: "wand", discount: "elven" },
   warhammer: { weight: 2, value: 10, title: "warhammer", discount: "dwarven" },
   volt_staff: {
@@ -187,9 +189,41 @@ CLERIC_SPELLS = [
 ];
 
 // Classes.
-// Human, Halfling
+// Human
 const MERCENARY = {
-  ability_scores: { STR: 14, DEX: 15, CON: 12, WIS: 10, INT: 8, CHA: 13 },
+  ability_scores: { STR: 15, DEX: 14, CON: 12, WIS: 13, INT: 10, CHA: 8 },
+  armor: ["light", "medium", "heavy", "shields"],
+  cantrips: [],
+  class: "fighter",
+  hp: 10,
+  expertise: [],
+  features: ["fighting style: archery", "second wind"],
+  languages: [],
+  resistances: [],
+  skills: ["survival", "perception"],
+  spells: [],
+  title: "mercenary",
+  tools: [],
+  weapons: ["simple", "martial"],
+  writeup: "You are a Mercenary, a sellsword with some skill in survival.",
+  races: ["human"],
+  inv_worn: [
+    ITEMS.longsword,
+    ITEMS.shield,
+    ITEMS.longbow,
+    ITEMS.chainshirt,
+    ITEMS.backpack,
+    ITEMS.pouch,
+    ITEMS.rope,
+  ],
+  inv_pouch: [ITEMS.ammunition, ITEMS.potion_of_healing],
+  inv_backpack: [ITEMS.rations, ITEMS.torches, ITEMS.tinderbox],
+  ability_proficiencies: ["STR", "CON"],
+};
+
+// Halfling
+const PISTOLIER = {
+  ability_scores: { STR: 15, DEX: 14, CON: 12, WIS: 10, INT: 8, CHA: 13 },
   armor: ["light", "medium", "heavy", "shields"],
   cantrips: [],
   class: "fighter",
@@ -203,18 +237,18 @@ const MERCENARY = {
   title: "mercenary",
   tools: [],
   weapons: ["simple", "martial"],
-  writeup: "You are a Mercenary, a sword for hire.",
-  races: ["human", "halfling"],
+  writeup: "You are a Pistolier, a gunman trained in the use of powder weapons.",
+  races: ["halfling"],
   inv_worn: [
     ITEMS.shortsword,
-    ITEMS.shield,
-    ITEMS.shortbow,
+    ITEMS.dagger,
+    ITEMS.flintlock_pistol,
     ITEMS.studded_leather,
     ITEMS.backpack,
     ITEMS.pouch,
     ITEMS.rope,
   ],
-  inv_pouch: [ITEMS.ammunition, ITEMS.sparking_ammo, ITEMS.potion_of_healing],
+  inv_pouch: [ITEMS.ammunition, ITEMS.potion_of_healing],
   inv_backpack: [ITEMS.rations, ITEMS.torches, ITEMS.tinderbox],
   ability_proficiencies: ["STR", "CON"],
 };
@@ -263,7 +297,7 @@ const DUELIST = {
   resistances: [],
   skills: ["athletics", "history"],
   spells: [],
-  title: "mercenary",
+  title: "duelist",
   tools: [],
   weapons: ["simple", "martial"],
   writeup: "You are a Duelist, an arbiter of legal disputes.",
@@ -278,11 +312,42 @@ const DUELIST = {
     ITEMS.rope,
   ],
   inv_pouch: [],
-  inv_backpack: [ITEMS.rations, ITEMS.torches, ITEMS.tinderbox],
+  inv_backpack: [ITEMS.rations, ITEMS.torches],
   ability_proficiencies: ["STR", "CON"],
 };
 
-// Human, Halfling
+// Human
+const HOSPTIALLER = {
+  ability_scores: { STR: 15, DEX: 8, CON: 14, WIS: 13, INT: 10, CHA: 12 },
+  armor: ["light", "medium", "heavy", "shields"],
+  cantrips: [],
+  class: "cleric",
+  hp: 8,
+  expertise: [],
+  features: ["disciple of life"],
+  languages: [],
+  resistances: [],
+  skills: ["medicine", "history"],
+  spells: ["bless", "cure wounds"],
+  title: "hospitaller",
+  tools: ["holy symbol", "scrolls"],
+  weapons: ["simple"],
+  writeup: "You are a Hospitaller, a knight sworn to the aid of the sick and dying.",
+  races: ["human"],
+  inv_worn: [
+    ITEMS.ringmail,
+    ITEMS.mace,
+    ITEMS.shield,
+    ITEMS.holy_symbol,
+    ITEMS.backpack,
+    ITEMS.pouch,
+  ],
+  inv_pouch: [ITEMS.potion_of_healing],
+  inv_backpack: [ITEMS.rations],
+  ability_proficiencies: ["CHA", "WIS"],
+};
+
+// Halfling
 const SHAMAN = {
   ability_scores: { STR: 8, DEX: 14, CON: 12, WIS: 15, INT: 10, CHA: 13 },
   armor: ["light", "medium", "heavy", "shields"],
@@ -294,12 +359,12 @@ const SHAMAN = {
   languages: [],
   resistances: [],
   skills: ["medicine", "history"],
-  spells: ["guiding bolt", "cure wounds"],
+  spells: ["bless", "cure wounds"],
   title: "shaman",
   tools: ["holy symbol", "scrolls"],
   weapons: ["simple"],
   writeup: "You are a shaman, one who minds the boundary between living and dead.",
-  races: ["human", "halfling"],
+  races: ["halfling"],
   inv_worn: [
     ITEMS.studded_leather,
     ITEMS.dagger,
@@ -308,7 +373,7 @@ const SHAMAN = {
     ITEMS.backpack,
     ITEMS.pouch,
   ],
-  inv_pouch: [ITEMS.ash_wand],
+  inv_pouch: [ITEMS.potion_of_healing],
   inv_backpack: [ITEMS.rations],
   ability_proficiencies: ["CHA", "WIS"],
 };
@@ -356,8 +421,8 @@ const CULTIVATOR = {
   languages: [],
   resistances: [],
   skills: ["insight", "medicine"],
-  spells: ["detect magic", "healing word"],
-  title: "seer",
+  spells: ["bless", "cure wounds"],
+  title: "cultivator",
   tools: ["holy symbol", "scrolls"],
   weapons: ["simple"],
   writeup: "You are a cultivator, a mystic that mixes magic and martial arts.",
@@ -375,7 +440,43 @@ const CULTIVATOR = {
   ability_proficiencies: ["CHA", "WIS"],
 };
 
-// Human, Halfling
+// Human
+const BRAVO = {
+  ability_scores: { STR: 15, DEX: 13, CON: 12, WIS: 8, INT: 10, CHA: 14 },
+  armor: ["light"],
+  cantrips: [],
+  class: "rogue",
+  hp: 8,
+  expertise: ["athletics", "persuasion"],
+  features: ["sneak attack"],
+  languages: ["cant"],
+  resistances: [],
+  skills: ["athletics", "acrobatics", "persuasion", "stealth"],
+  spells: [],
+  title: "bravo",
+  tools: ["thieves'"],
+  weapons: ["simple", "rogue"],
+  writeup:
+    "You are a Bravo, a swashbuckling swordsman.",
+  races: ["human"],
+  inv_worn: [
+    ITEMS.rapier,
+    ITEMS.dagger2,
+    ITEMS.studded_leather,
+    ITEMS.backpack,
+    ITEMS.pouch,
+  ],
+  inv_pouch: [ITEMS.potion_of_healing],
+  inv_backpack: [
+    ITEMS.rations,
+    ITEMS.thieves_tools,
+    ITEMS.torches,
+    ITEMS.tinderbox
+  ],
+  ability_proficiencies: ["DEX", "INT"],
+};
+
+// Halfling
 const TRICKSTER = {
   ability_scores: { STR: 10, DEX: 15, CON: 12, WIS: 14, INT: 8, CHA: 13 },
   armor: ["light"],
@@ -393,7 +494,7 @@ const TRICKSTER = {
   weapons: ["simple", "rogue"],
   writeup:
     "You are a Trickster, an expert in misdirection.",
-  races: ["human", "halfling"],
+  races: ["halfling"],
   inv_worn: [
     ITEMS.dagger5,
     ITEMS.studded_leather,
@@ -407,6 +508,7 @@ const TRICKSTER = {
     ITEMS.thieves_tools,
     ITEMS.bullseye_lantern,
     ITEMS.oil3,
+    ITEMS.tinderbox
   ],
   ability_proficiencies: ["DEX", "INT"],
 };
@@ -444,13 +546,14 @@ const DUNGEONEER = {
     ITEMS.thieves_tools,
     ITEMS.bullseye_lantern,
     ITEMS.oil3,
+    ITEMS.tinderbox
   ],
   ability_proficiencies: ["DEX", "INT"],
 };
 
 // Elf
 const SCOUT = {
-  ability_scores: { STR: 13, DEX: 14, CON: 12, WIS: 15, INT: 10, CHA: 8 },
+  ability_scores: { STR: 12, DEX: 14, CON: 10, WIS: 15, INT: 13, CHA: 8 },
   armor: ["light"],
   cantrips: [],
   class: "rogue",
@@ -484,7 +587,31 @@ const SCOUT = {
   ability_proficiencies: ["DEX", "INT"],
 };
 
-// Human, Halfling
+// Human
+const SCRIBE = {
+  ability_scores: { STR: 12, DEX: 14, CON: 13, WIS: 10, INT: 15, CHA: 8 },
+  armor: [],
+  cantrips: [],
+  class: "wizard",
+  hp: 6,
+  expertise: [],
+  features: ["arcane recovery"],
+  languages: [],
+  resistances: [],
+  skills: ["history", "religion"],
+  spells: [],
+  title: "scribe",
+  tools: ["wand", "spellbook", "scrolls"],
+  weapons: ["wizard"],
+  writeup: "You are a Scribe, a magic-user with an affinity for sigils.",
+  races: ["human"],
+  inv_worn: [ITEMS.quarterstaff, ITEMS.wand, ITEMS.backpack, ITEMS.pouch],
+  inv_pouch: [ITEMS.scroll_sleep],
+  inv_backpack: [ITEMS.rations, ITEMS.spellbook, ITEMS.pen],
+  ability_proficiencies: ["INT", "WIS"],
+};
+
+// Halfling
 const WITCH = {
   ability_scores: { STR: 8, DEX: 14, CON: 12, WIS: 10, INT: 15, CHA: 13 },
   armor: [],
@@ -495,16 +622,16 @@ const WITCH = {
   features: ["arcane recovery"],
   languages: [],
   resistances: [],
-  skills: ["arcana", "investigation"],
+  skills: ["medicine", "nature"],
   spells: [],
   title: "witch",
   tools: ["wand", "spellbook", "scrolls"],
   weapons: ["wizard"],
   writeup: "You are a Witch, a magic-user skilled with enchanted items.",
-  races: ["human", "halfling"],
+  races: ["halfling"],
   inv_worn: [ITEMS.dagger, ITEMS.volt_staff, ITEMS.backpack, ITEMS.pouch],
   inv_pouch: [],
-  inv_backpack: [ITEMS.rations, ITEMS.spellbook],
+  inv_backpack: [ITEMS.rations, ITEMS.spellbook, ITEMS.pen],
   ability_proficiencies: ["INT", "WIS"],
 };
 
@@ -536,8 +663,8 @@ const SPELLSWORD = {
     ITEMS.pouch,
     ITEMS.robe,
   ],
-  inv_pouch: [ITEMS.scroll_sleep, ITEMS.ammunition, ITEMS.potion_of_healing],
-  inv_backpack: [ITEMS.rations, ITEMS.spellbook],
+  inv_pouch: [ITEMS.scroll_sleep, ITEMS.ammunition],
+  inv_backpack: [ITEMS.rations, ITEMS.spellbook, ITEMS.pen],
   ability_proficiencies: ["INT", "WIS"],
 };
 
@@ -557,7 +684,7 @@ const RUNEKEEPER = {
   title: "runekeeper",
   tools: ["wand", "spellbook", "scrolls"],
   weapons: ["wizard"],
-  writeup: "You are a Runekeeper, a dwarven magic-user with deep knowledge of the world.",
+  writeup: "You are a Runekeeper, a sturdy and knowledgeable dwarven magic-user.",
   races: ["dwarf"],
   inv_worn: [
     ITEMS.warhammer,
@@ -566,20 +693,24 @@ const RUNEKEEPER = {
     ITEMS.backpack,
     ITEMS.pouch,
   ],
-  inv_pouch: [ITEMS.scroll_sleep, ITEMS.potion_of_healing],
-  inv_backpack: [ITEMS.rations, ITEMS.spellbook],
+  inv_pouch: [ITEMS.scroll_sleep],
+  inv_backpack: [ITEMS.rations, ITEMS.spellbook, ITEMS.pen],
   ability_proficiencies: ["INT", "WIS"],
 };
 
 
 const CLASSES = {
+  bravo: BRAVO,
   cultivator: CULTIVATOR,
   duelist: DUELIST,
   dungeoneer: DUNGEONEER,
+  hospitaller: HOSPTIALLER,
   legionnaire: LEGIONNAIRE,
   mercenary: MERCENARY,
+  pistolier: PISTOLIER,
   runekeeper: RUNEKEEPER,
   scout: SCOUT,
+  scribe: SCRIBE,
   seer: SEER,
   shaman: SHAMAN,
   spellsword: SPELLSWORD,
@@ -690,7 +821,7 @@ const ALCHEMIST = {
   ],
   ability_proficiencies: [],
   writeup:
-    'You came to the Forgotten City to learn the recipe for <a href="../more/loot_tables/panacea">panacea</a>.',
+    'You came to the Forgotten City to learn the recipe for panacea.',
 };
 
 const EMISSARY = {

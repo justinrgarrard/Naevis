@@ -42,13 +42,13 @@ nav_order: 4
 > | Dagger                                           | 1 lb.              | 1 gp  |
 > | Robes                                            | 4 lb.              | 1 gp  |
 > | Wand                                             | 1 lb.              | 10 gp |
-> | Pouch                                            | 1 lb. (2 / 6 lb.)  | 1 gp  |
+> | Pouch                                            | 1 lb. (1 / 6 lb.)  | 1 gp  |
 > | ...[Scroll of Sleep](../../../data/items/spell_scroll)         | 1 lb.              | 25 gp |
-> | ...[Scroll of Magic Missile](../../../data/items/spell_scroll) | 1 lb.              | 25 gp |
-> | Backpack                                         | 5 lb. (9 / 30 lb.) | 2 gp  |
+> | Backpack                                         | 5 lb. (10 / 30 lb.) | 2 gp  |
 > | ...Rations (x3)                                  | 6 lb.              | 3 gp  |
 > | ...Spellbook                                     | 3 lb.              | 25 gp |
-> | ...Spare Gold                                    | -                  | 2 gp  |
+> | ... Pen and Ink | 1 lb. | 5 gp |
+> | ...Spare Gold                                    | -                  | 22 gp  |
 
 #### Spellcasting
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.

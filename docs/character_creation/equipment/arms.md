@@ -20,7 +20,7 @@ grand_parent: Character Creation
 | Dart (20)       | 1d4 piercing    | 5 lb.  | Finesse, thrown (20/60), **wizard**        |
 | Light Hammer    | 1d4 bludgeoning | 2 lb.  | Light, thrown (20/60), **dwarf**           |
 | Quarterstaff    | 1d6 bludgeoning | 4 lb.  | Versatile (1d8), **wizard**                |
-| Sling           | 1d4 piercing    | —      | Ammunition, range (30/120), **wizard**     |
+| Sling           | 1d4 bludgeoning | —      | Ammunition, range (30/120), **wizard**     |
 | Whip            | 1d4 slashing    | 3 lb.  | Finesse, reach, **martial**                |
 | Ammunition (20) | —               | 1 lb.  | Ammunition                                 |
 
@@ -56,10 +56,10 @@ grand_parent: Character Creation
 
 #### Firearms (25 gp) 
 
-| Name   | Damage        | Weight | Properties                                                           |
-| :----- | :------------ | :----- | :------------------------------------------------------------------- |
-| Pistol | 1d8 piercing  | 3 lb.  | Ammunition, range (30/120), light, loading, **martial**              |
-| Musket | 1d12 piercing | 10 lb. | Ammunition, range (100/400), heavy, loading, two-handed, **martial** |
+| Name             | Damage        | Weight | Properties                                                           |
+| :--------------- | :------------ | :----- | :------------------------------------------------------------------- |
+| Flintlock Pistol | 1d8 piercing  | 3 lb.  | Ammunition, range (30/120), light, loading, **martial**              |
+| Flintlock Musket | 1d12 piercing | 10 lb. | Ammunition, range (100/400), heavy, loading, two-handed, **martial** |
 
 
 #### Magic Weapons (50 gp)

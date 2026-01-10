@@ -34,4 +34,4 @@ nav_order: 2
 >
 > ##### Faith
 >
-> Dwarven religion is organized across dozens of mystery cults. Their pantheon describes gods and goddesses for war, craftsmanship, music, and beyond. A handful of devout worshippers are inducted into the cults each year in secretive ceremonies, becoming [clerics](../../character_creation/class/cleric).
+> Dwarven religion is organized across dozens of mystery cults. Their pantheon describes gods and goddesses for war, craftsmanship, music, and more. A handful of devout worshippers are inducted into the cults each year in secretive ceremonies, becoming [clerics](../../character_creation/class/cleric).

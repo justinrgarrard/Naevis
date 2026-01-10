@@ -34,4 +34,4 @@ nav_order: 1
 > 
 > ##### Faith
 >
-> Elven religion is segmented into cultivation sects. Aspirants compete for the right to become outer court members in prestigious sects, often in martial arts tournaments. Those that succeed are taught secret cultivation methods and become [cultivators](../../character_creation/class/cleric).
+> Elven religion has thousands of immortals, some of whom are believed to be former [cultivators](../../character_creation/class/cleric) who ascended through centuries of training. Governing them is a celestial court with a divine emperor.

@@ -26,7 +26,7 @@ parent: Adventuring
 {: .language}
 > ##### Halfling
 > 
-> The language of alchemy. Proficient characters receive a 20% discount on tools.
+> The language of alchemy. Proficient characters receive a 20% discount on tools and alchemical items.
 
 
 ---
